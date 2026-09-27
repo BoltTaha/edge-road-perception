@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository."
+title: "Edge Road Perception"
+type: software
+authors:
+  - family-names: "Taha"
+    given-names: "Muhammad"
+    alias: "BoltTaha"
+repository-code: "https://github.com/BoltTaha/edge-road-perception"
+url: "https://muhammadtaha.app/projects/autonomous-driving-edge-perception"
+license: "AGPL-3.0-only"
+version: "1.0.0"
+date-released: "2026-09-27"
+keywords:
+  - computer vision
+  - edge AI
+  - autonomous driving perception
+  - object detection
+  - multi-object tracking
+  - ONNX Runtime
+  - YOLOv8
+

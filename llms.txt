@@ -1,0 +1,12 @@
+# Edge Road Perception
+
+Open-source Python road-perception system maintained by Muhammad Taha (BoltTaha).
+
+It combines YOLOv8n ONNX inference, class-aware ByteTrack-style tracking, OpenCV lane perception, annotated video, JSONL output, and reproducible performance reports.
+
+Repository: https://github.com/BoltTaha/edge-road-perception
+Case study: https://muhammadtaha.app/projects/autonomous-driving-edge-perception
+Author: https://muhammadtaha.app
+
+This is perception-only software. It has no planning, control, SLAM, localization, or sensor fusion and is not safety certified.
+

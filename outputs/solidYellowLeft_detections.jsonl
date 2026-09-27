@@ -1,0 +1,681 @@
+{"frame": 0, "timestamp_ms": 0.0, "tracks": []}
+{"frame": 1, "timestamp_ms": 40.0, "tracks": []}
+{"frame": 2, "timestamp_ms": 80.0, "tracks": []}
+{"frame": 3, "timestamp_ms": 120.0, "tracks": []}
+{"frame": 4, "timestamp_ms": 160.0, "tracks": []}
+{"frame": 5, "timestamp_ms": 200.0, "tracks": []}
+{"frame": 6, "timestamp_ms": 240.0, "tracks": []}
+{"frame": 7, "timestamp_ms": 280.0, "tracks": []}
+{"frame": 8, "timestamp_ms": 320.0, "tracks": []}
+{"frame": 9, "timestamp_ms": 360.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [531.9, 298.0, 565.1, 320.4], "score": 0.537}]}
+{"frame": 10, "timestamp_ms": 400.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [531.6, 297.9, 564.9, 320.6], "score": 0.564}]}
+{"frame": 11, "timestamp_ms": 440.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [531.3, 297.3, 564.6, 320.2], "score": 0.532}]}
+{"frame": 12, "timestamp_ms": 480.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.9, 296.9, 564.0, 320.0], "score": 0.564}]}
+{"frame": 13, "timestamp_ms": 520.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.8, 297.4, 563.6, 320.1], "score": 0.572}]}
+{"frame": 14, "timestamp_ms": 560.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.3, 297.3, 563.4, 320.3], "score": 0.533}, {"track_id": 2, "class_id": 2, "bbox": [667.0, 290.0, 689.4, 305.5], "score": 0.595}, {"track_id": 3, "class_id": 2, "bbox": [794.1, 304.4, 828.3, 326.1], "score": 0.589}]}
+{"frame": 15, "timestamp_ms": 600.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.1, 297.2, 563.1, 320.5], "score": 0.546}, {"track_id": 2, "class_id": 2, "bbox": [666.6, 289.9, 689.7, 305.5], "score": 0.573}, {"track_id": 4, "class_id": 2, "bbox": [800.5, 305.2, 828.2, 326.0], "score": 0.671}]}
+{"frame": 16, "timestamp_ms": 640.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.0, 297.0, 563.1, 320.5], "score": 0.569}, {"track_id": 2, "class_id": 2, "bbox": [666.2, 290.3, 689.9, 306.0], "score": 0.601}, {"track_id": 3, "class_id": 2, "bbox": [793.5, 303.9, 829.1, 326.8], "score": 0.643}]}
+{"frame": 17, "timestamp_ms": 680.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.0, 297.5, 562.9, 320.5], "score": 0.549}, {"track_id": 2, "class_id": 2, "bbox": [666.0, 290.4, 690.3, 306.7], "score": 0.597}, {"track_id": 5, "class_id": 2, "bbox": [801.9, 303.1, 830.6, 326.1], "score": 0.54}]}
+{"frame": 18, "timestamp_ms": 720.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.7, 296.4, 563.4, 320.0], "score": 0.583}, {"track_id": 2, "class_id": 2, "bbox": [666.3, 290.5, 690.3, 305.8], "score": 0.475}, {"track_id": 5, "class_id": 2, "bbox": [802.4, 303.5, 830.5, 325.7], "score": 0.544}]}
+{"frame": 19, "timestamp_ms": 760.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.2, 295.8, 563.6, 319.6], "score": 0.694}, {"track_id": 2, "class_id": 2, "bbox": [667.3, 290.1, 690.5, 305.3], "score": 0.54}, {"track_id": 5, "class_id": 2, "bbox": [803.4, 303.3, 830.7, 326.0], "score": 0.459}]}
+{"frame": 20, "timestamp_ms": 800.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.0, 294.3, 563.8, 318.7], "score": 0.797}, {"track_id": 2, "class_id": 2, "bbox": [668.1, 289.9, 690.4, 305.0], "score": 0.58}, {"track_id": 5, "class_id": 2, "bbox": [801.4, 303.0, 831.3, 324.3], "score": 0.447}]}
+{"frame": 21, "timestamp_ms": 840.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.0, 293.5, 564.0, 317.8], "score": 0.794}, {"track_id": 2, "class_id": 2, "bbox": [668.7, 290.2, 690.3, 304.8], "score": 0.518}, {"track_id": 6, "class_id": 2, "bbox": [791.6, 301.7, 833.7, 324.8], "score": 0.656}]}
+{"frame": 22, "timestamp_ms": 880.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.1, 293.2, 564.0, 317.5], "score": 0.796}, {"track_id": 2, "class_id": 2, "bbox": [668.0, 290.5, 690.6, 305.1], "score": 0.474}, {"track_id": 6, "class_id": 2, "bbox": [795.4, 302.0, 833.9, 325.3], "score": 0.627}]}
+{"frame": 23, "timestamp_ms": 920.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.1, 293.1, 563.8, 317.5], "score": 0.719}, {"track_id": 2, "class_id": 2, "bbox": [666.8, 290.4, 690.6, 305.0], "score": 0.417}, {"track_id": 6, "class_id": 2, "bbox": [799.2, 302.1, 834.4, 325.5], "score": 0.733}, {"track_id": 7, "class_id": 2, "bbox": [300.4, 289.6, 328.9, 306.5], "score": 0.5}]}
+{"frame": 24, "timestamp_ms": 960.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.0, 293.7, 563.4, 318.0], "score": 0.673}, {"track_id": 6, "class_id": 2, "bbox": [804.3, 302.3, 834.9, 325.6], "score": 0.542}]}
+{"frame": 25, "timestamp_ms": 1000.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.1, 294.7, 563.2, 319.1], "score": 0.618}, {"track_id": 6, "class_id": 2, "bbox": [808.4, 302.7, 835.6, 326.5], "score": 0.546}, {"track_id": 8, "class_id": 2, "bbox": [95.5, 292.9, 147.6, 321.8], "score": 0.532}, {"track_id": 9, "class_id": 2, "bbox": [290.6, 292.9, 319.1, 308.9], "score": 0.518}, {"track_id": 10, "class_id": 2, "bbox": [152.9, 300.2, 191.6, 321.7], "score": 0.51}]}
+{"frame": 26, "timestamp_ms": 1040.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.1, 294.6, 563.0, 318.7], "score": 0.711}, {"track_id": 2, "class_id": 2, "bbox": [665.3, 290.2, 690.2, 305.3], "score": 0.393}, {"track_id": 9, "class_id": 2, "bbox": [286.4, 292.0, 316.6, 308.2], "score": 0.435}]}
+{"frame": 27, "timestamp_ms": 1080.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.2, 293.9, 563.2, 317.7], "score": 0.662}, {"track_id": 5, "class_id": 2, "bbox": [795.5, 302.1, 840.1, 323.9], "score": 0.397}, {"track_id": 11, "class_id": 2, "bbox": [126.3, 298.8, 175.1, 321.6], "score": 0.571}, {"track_id": 12, "class_id": 2, "bbox": [668.1, 289.7, 691.3, 304.2], "score": 0.529}]}
+{"frame": 28, "timestamp_ms": 1120.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.4, 293.2, 563.4, 316.7], "score": 0.691}, {"track_id": 12, "class_id": 2, "bbox": [667.2, 288.7, 692.2, 304.3], "score": 0.494}]}
+{"frame": 29, "timestamp_ms": 1160.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.9, 292.4, 563.4, 316.7], "score": 0.705}, {"track_id": 5, "class_id": 2, "bbox": [796.4, 299.2, 835.6, 320.9], "score": 0.354}, {"track_id": 12, "class_id": 2, "bbox": [668.4, 287.8, 692.4, 304.0], "score": 0.44}, {"track_id": 13, "class_id": 2, "bbox": [95.9, 299.3, 146.3, 324.5], "score": 0.572}]}
+{"frame": 30, "timestamp_ms": 1200.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.4, 292.1, 563.6, 316.0], "score": 0.635}, {"track_id": 12, "class_id": 2, "bbox": [669.2, 287.2, 693.5, 303.5], "score": 0.532}, {"track_id": 14, "class_id": 2, "bbox": [78.2, 297.6, 132.0, 325.8], "score": 0.685}, {"track_id": 15, "class_id": 2, "bbox": [800.1, 297.6, 841.1, 321.6], "score": 0.53}]}
+{"frame": 31, "timestamp_ms": 1240.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.5, 291.6, 563.6, 316.1], "score": 0.641}, {"track_id": 12, "class_id": 2, "bbox": [669.5, 287.0, 693.6, 303.3], "score": 0.468}, {"track_id": 15, "class_id": 2, "bbox": [810.2, 297.9, 841.6, 321.1], "score": 0.373}, {"track_id": 16, "class_id": 2, "bbox": [57.5, 299.2, 114.8, 326.3], "score": 0.637}]}
+{"frame": 32, "timestamp_ms": 1280.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.3, 291.1, 563.9, 315.7], "score": 0.596}, {"track_id": 5, "class_id": 2, "bbox": [801.0, 296.7, 843.0, 319.3], "score": 0.352}, {"track_id": 12, "class_id": 2, "bbox": [669.9, 286.6, 694.3, 303.1], "score": 0.453}, {"track_id": 17, "class_id": 2, "bbox": [36.2, 298.4, 98.5, 327.9], "score": 0.678}]}
+{"frame": 33, "timestamp_ms": 1320.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.0, 290.9, 564.1, 315.5], "score": 0.614}, {"track_id": 5, "class_id": 2, "bbox": [802.0, 296.4, 845.1, 319.1], "score": 0.388}, {"track_id": 12, "class_id": 2, "bbox": [670.1, 286.5, 694.5, 302.9], "score": 0.478}, {"track_id": 18, "class_id": 2, "bbox": [9.3, 297.7, 77.9, 330.3], "score": 0.682}]}
+{"frame": 34, "timestamp_ms": 1360.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.6, 290.7, 563.9, 314.9], "score": 0.536}, {"track_id": 5, "class_id": 2, "bbox": [803.8, 296.3, 845.6, 318.7], "score": 0.458}, {"track_id": 12, "class_id": 2, "bbox": [670.7, 286.6, 694.1, 302.6], "score": 0.466}, {"track_id": 19, "class_id": 2, "bbox": [0.1, 297.5, 53.9, 333.9], "score": 0.685}]}
+{"frame": 35, "timestamp_ms": 1400.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.3, 290.5, 563.5, 314.4], "score": 0.498}, {"track_id": 5, "class_id": 2, "bbox": [805.2, 295.8, 846.2, 318.6], "score": 0.533}, {"track_id": 12, "class_id": 2, "bbox": [670.7, 286.5, 694.7, 302.7], "score": 0.484}, {"track_id": 20, "class_id": 2, "bbox": [0.1, 297.9, 30.7, 331.2], "score": 0.735}]}
+{"frame": 36, "timestamp_ms": 1440.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.3, 290.3, 563.0, 313.7], "score": 0.546}, {"track_id": 5, "class_id": 2, "bbox": [806.2, 295.3, 847.1, 318.9], "score": 0.528}, {"track_id": 12, "class_id": 2, "bbox": [670.9, 286.3, 695.2, 302.6], "score": 0.517}]}
+{"frame": 37, "timestamp_ms": 1480.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.3, 289.9, 562.8, 313.9], "score": 0.533}, {"track_id": 5, "class_id": 2, "bbox": [806.5, 295.4, 847.6, 318.7], "score": 0.55}, {"track_id": 12, "class_id": 2, "bbox": [670.7, 286.1, 696.5, 302.8], "score": 0.529}, {"track_id": 21, "class_id": 2, "bbox": [192.2, 292.0, 237.5, 317.8], "score": 0.531}]}
+{"frame": 38, "timestamp_ms": 1520.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.3, 289.6, 562.8, 313.9], "score": 0.514}, {"track_id": 5, "class_id": 2, "bbox": [807.1, 295.2, 848.3, 318.1], "score": 0.441}, {"track_id": 12, "class_id": 2, "bbox": [670.1, 285.8, 697.1, 302.8], "score": 0.524}, {"track_id": 22, "class_id": 2, "bbox": [179.5, 292.3, 227.9, 318.0], "score": 0.667}]}
+{"frame": 39, "timestamp_ms": 1560.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.3, 289.3, 562.7, 313.9], "score": 0.47}, {"track_id": 5, "class_id": 2, "bbox": [807.1, 294.9, 848.6, 317.5], "score": 0.354}, {"track_id": 12, "class_id": 2, "bbox": [670.4, 285.6, 697.7, 302.9], "score": 0.537}, {"track_id": 23, "class_id": 2, "bbox": [164.9, 290.7, 219.4, 318.0], "score": 0.643}]}
+{"frame": 40, "timestamp_ms": 1600.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.1, 289.1, 562.6, 314.0], "score": 0.512}, {"track_id": 5, "class_id": 2, "bbox": [807.7, 295.3, 849.8, 317.5], "score": 0.366}, {"track_id": 12, "class_id": 2, "bbox": [670.1, 285.9, 698.3, 303.2], "score": 0.547}, {"track_id": 24, "class_id": 2, "bbox": [150.2, 291.1, 207.1, 318.9], "score": 0.611}]}
+{"frame": 41, "timestamp_ms": 1640.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.9, 289.0, 562.1, 314.1], "score": 0.49}, {"track_id": 5, "class_id": 2, "bbox": [808.1, 294.9, 849.7, 317.4], "score": 0.359}, {"track_id": 12, "class_id": 2, "bbox": [670.3, 286.0, 697.6, 303.5], "score": 0.498}, {"track_id": 25, "class_id": 2, "bbox": [132.9, 290.7, 194.7, 319.4], "score": 0.669}]}
+{"frame": 42, "timestamp_ms": 1680.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.6, 289.1, 561.7, 314.0], "score": 0.45}, {"track_id": 5, "class_id": 2, "bbox": [808.0, 294.8, 851.4, 318.3], "score": 0.381}, {"track_id": 12, "class_id": 2, "bbox": [670.4, 286.2, 697.3, 303.7], "score": 0.453}, {"track_id": 26, "class_id": 2, "bbox": [115.1, 289.7, 180.2, 321.2], "score": 0.732}]}
+{"frame": 43, "timestamp_ms": 1720.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.4, 290.4, 561.6, 314.3], "score": 0.566}, {"track_id": 5, "class_id": 2, "bbox": [807.8, 295.9, 853.7, 319.1], "score": 0.383}, {"track_id": 12, "class_id": 2, "bbox": [670.3, 286.8, 696.3, 304.1], "score": 0.51}, {"track_id": 27, "class_id": 2, "bbox": [92.7, 292.3, 164.4, 323.1], "score": 0.712}]}
+{"frame": 44, "timestamp_ms": 1760.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.1, 292.0, 561.6, 315.2], "score": 0.609}, {"track_id": 5, "class_id": 2, "bbox": [809.5, 297.1, 854.8, 320.5], "score": 0.419}, {"track_id": 28, "class_id": 2, "bbox": [71.8, 292.7, 146.2, 324.2], "score": 0.753}, {"track_id": 29, "class_id": 2, "bbox": [671.9, 289.3, 696.4, 305.0], "score": 0.577}]}
+{"frame": 45, "timestamp_ms": 1800.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.0, 293.1, 561.9, 315.6], "score": 0.621}, {"track_id": 5, "class_id": 2, "bbox": [810.1, 297.1, 855.6, 321.5], "score": 0.54}, {"track_id": 29, "class_id": 2, "bbox": [671.7, 289.0, 697.7, 306.1], "score": 0.599}, {"track_id": 30, "class_id": 2, "bbox": [44.4, 292.2, 126.7, 325.6], "score": 0.675}]}
+{"frame": 46, "timestamp_ms": 1840.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [527.9, 293.9, 561.6, 315.7], "score": 0.625}, {"track_id": 5, "class_id": 2, "bbox": [810.2, 296.9, 857.4, 322.0], "score": 0.52}, {"track_id": 29, "class_id": 2, "bbox": [671.3, 289.0, 697.9, 307.6], "score": 0.507}, {"track_id": 31, "class_id": 2, "bbox": [15.7, 292.7, 104.0, 328.4], "score": 0.794}]}
+{"frame": 47, "timestamp_ms": 1880.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.0, 294.2, 561.0, 315.4], "score": 0.542}, {"track_id": 5, "class_id": 2, "bbox": [810.3, 297.0, 857.7, 322.7], "score": 0.508}, {"track_id": 29, "class_id": 2, "bbox": [670.9, 288.9, 697.9, 308.2], "score": 0.484}, {"track_id": 32, "class_id": 2, "bbox": [0.2, 292.2, 78.4, 330.4], "score": 0.744}]}
+{"frame": 48, "timestamp_ms": 1920.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.0, 294.2, 561.1, 315.2], "score": 0.463}, {"track_id": 5, "class_id": 2, "bbox": [810.7, 296.9, 858.8, 322.6], "score": 0.572}, {"track_id": 21, "class_id": 2, "bbox": [195.8, 294.4, 238.3, 318.0], "score": 0.468}, {"track_id": 29, "class_id": 2, "bbox": [670.9, 288.6, 698.3, 308.0], "score": 0.475}, {"track_id": 33, "class_id": 2, "bbox": [0.1, 292.8, 51.1, 332.0], "score": 0.818}]}
+{"frame": 49, "timestamp_ms": 1960.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.0, 293.8, 561.0, 315.0], "score": 0.485}, {"track_id": 7, "class_id": 2, "bbox": [306.1, 291.0, 332.9, 304.1], "score": 0.416}, {"track_id": 29, "class_id": 2, "bbox": [671.1, 288.5, 697.4, 307.3], "score": 0.514}, {"track_id": 34, "class_id": 2, "bbox": [0.0, 295.9, 17.4, 330.3], "score": 0.602}, {"track_id": 35, "class_id": 2, "bbox": [825.4, 298.0, 860.6, 321.9], "score": 0.539}, {"track_id": 36, "class_id": 2, "bbox": [190.4, 293.4, 229.9, 317.5], "score": 0.505}]}
+{"frame": 50, "timestamp_ms": 2000.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.3, 293.5, 561.0, 315.4], "score": 0.569}, {"track_id": 22, "class_id": 2, "bbox": [181.2, 292.7, 219.5, 315.6], "score": 0.38}, {"track_id": 29, "class_id": 2, "bbox": [671.7, 288.6, 697.4, 307.3], "score": 0.546}, {"track_id": 35, "class_id": 2, "bbox": [826.4, 298.7, 862.6, 322.3], "score": 0.501}]}
+{"frame": 51, "timestamp_ms": 2040.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.3, 293.6, 560.5, 315.4], "score": 0.526}, {"track_id": 5, "class_id": 2, "bbox": [814.8, 297.0, 863.7, 321.9], "score": 0.534}, {"track_id": 7, "class_id": 2, "bbox": [301.3, 290.7, 326.5, 303.6], "score": 0.373}, {"track_id": 23, "class_id": 2, "bbox": [161.7, 293.1, 214.8, 319.6], "score": 0.378}, {"track_id": 29, "class_id": 2, "bbox": [671.7, 288.6, 697.1, 307.6], "score": 0.517}]}
+{"frame": 52, "timestamp_ms": 2080.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.4, 294.4, 560.6, 315.6], "score": 0.458}, {"track_id": 5, "class_id": 2, "bbox": [816.7, 296.9, 864.9, 322.6], "score": 0.635}, {"track_id": 7, "class_id": 2, "bbox": [298.1, 291.9, 323.1, 305.0], "score": 0.361}, {"track_id": 29, "class_id": 2, "bbox": [671.8, 289.0, 697.0, 308.1], "score": 0.554}]}
+{"frame": 53, "timestamp_ms": 2120.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.2, 295.6, 560.9, 315.8], "score": 0.493}, {"track_id": 5, "class_id": 2, "bbox": [816.5, 297.2, 865.6, 323.2], "score": 0.528}, {"track_id": 29, "class_id": 2, "bbox": [672.3, 289.5, 696.9, 308.7], "score": 0.535}, {"track_id": 37, "class_id": 2, "bbox": [128.6, 298.9, 196.1, 324.9], "score": 0.508}]}
+{"frame": 54, "timestamp_ms": 2160.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.1, 296.7, 560.8, 316.2], "score": 0.531}, {"track_id": 5, "class_id": 2, "bbox": [817.2, 297.5, 865.8, 323.8], "score": 0.629}, {"track_id": 11, "class_id": 2, "bbox": [109.3, 299.2, 174.8, 323.7], "score": 0.426}, {"track_id": 29, "class_id": 2, "bbox": [672.3, 290.0, 697.3, 309.4], "score": 0.52}]}
+{"frame": 55, "timestamp_ms": 2200.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.1, 297.4, 560.7, 316.5], "score": 0.49}, {"track_id": 5, "class_id": 2, "bbox": [817.5, 296.7, 868.0, 324.1], "score": 0.596}, {"track_id": 7, "class_id": 2, "bbox": [284.3, 294.0, 311.9, 308.2], "score": 0.481}, {"track_id": 21, "class_id": 2, "bbox": [200.2, 299.6, 231.0, 316.6], "score": 0.459}, {"track_id": 29, "class_id": 2, "bbox": [672.1, 290.7, 698.2, 310.3], "score": 0.532}, {"track_id": 38, "class_id": 2, "bbox": [87.7, 298.5, 177.6, 329.4], "score": 0.501}]}
+{"frame": 56, "timestamp_ms": 2240.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [527.9, 297.5, 560.0, 316.3], "score": 0.423}, {"track_id": 5, "class_id": 2, "bbox": [817.7, 296.4, 869.9, 323.8], "score": 0.531}, {"track_id": 7, "class_id": 2, "bbox": [278.8, 294.2, 307.7, 309.5], "score": 0.498}, {"track_id": 29, "class_id": 2, "bbox": [671.9, 290.7, 698.4, 310.4], "score": 0.532}, {"track_id": 36, "class_id": 2, "bbox": [193.0, 299.9, 221.0, 317.6], "score": 0.413}, {"track_id": 39, "class_id": 2, "bbox": [65.2, 298.6, 143.7, 328.4], "score": 0.503}]}
+{"frame": 57, "timestamp_ms": 2280.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.0, 298.2, 560.0, 317.1], "score": 0.486}, {"track_id": 5, "class_id": 2, "bbox": [820.1, 297.5, 870.9, 324.3], "score": 0.364}, {"track_id": 7, "class_id": 2, "bbox": [274.3, 294.8, 302.9, 310.4], "score": 0.474}, {"track_id": 29, "class_id": 2, "bbox": [672.7, 291.2, 698.9, 310.8], "score": 0.467}]}
+{"frame": 58, "timestamp_ms": 2320.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [527.8, 298.1, 559.7, 317.0], "score": 0.506}, {"track_id": 5, "class_id": 2, "bbox": [820.1, 297.8, 870.7, 323.3], "score": 0.396}, {"track_id": 7, "class_id": 2, "bbox": [268.8, 294.7, 297.1, 310.8], "score": 0.401}, {"track_id": 29, "class_id": 2, "bbox": [673.3, 291.3, 698.4, 310.5], "score": 0.385}, {"track_id": 40, "class_id": 2, "bbox": [10.2, 298.2, 96.2, 331.3], "score": 0.608}]}
+{"frame": 59, "timestamp_ms": 2360.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [527.7, 298.0, 559.6, 316.6], "score": 0.427}, {"track_id": 5, "class_id": 2, "bbox": [821.7, 298.3, 871.1, 323.4], "score": 0.472}, {"track_id": 7, "class_id": 2, "bbox": [263.0, 294.6, 291.6, 310.7], "score": 0.387}, {"track_id": 29, "class_id": 2, "bbox": [673.2, 291.5, 698.3, 310.6], "score": 0.445}, {"track_id": 41, "class_id": 2, "bbox": [0.4, 298.3, 70.2, 330.8], "score": 0.656}]}
+{"frame": 60, "timestamp_ms": 2400.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [527.9, 298.4, 559.6, 316.6], "score": 0.49}, {"track_id": 5, "class_id": 2, "bbox": [823.4, 299.2, 872.9, 324.2], "score": 0.458}, {"track_id": 7, "class_id": 2, "bbox": [257.1, 295.0, 286.9, 310.9], "score": 0.383}, {"track_id": 29, "class_id": 2, "bbox": [673.7, 292.0, 698.2, 310.9], "score": 0.465}, {"track_id": 42, "class_id": 2, "bbox": [138.1, 297.1, 176.6, 320.4], "score": 0.563}]}
+{"frame": 61, "timestamp_ms": 2440.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [527.9, 298.3, 559.9, 316.2], "score": 0.407}, {"track_id": 7, "class_id": 2, "bbox": [251.2, 295.0, 281.2, 310.6], "score": 0.385}, {"track_id": 29, "class_id": 2, "bbox": [674.4, 292.4, 698.5, 310.6], "score": 0.357}, {"track_id": 43, "class_id": 2, "bbox": [129.1, 296.0, 166.3, 319.8], "score": 0.583}]}
+{"frame": 62, "timestamp_ms": 2480.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [528.6, 298.4, 560.5, 316.6], "score": 0.389}, {"track_id": 29, "class_id": 2, "bbox": [673.9, 292.2, 699.0, 310.3], "score": 0.448}, {"track_id": 35, "class_id": 2, "bbox": [841.6, 301.6, 876.6, 324.7], "score": 0.375}]}
+{"frame": 63, "timestamp_ms": 2520.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.1, 298.6, 560.6, 316.8], "score": 0.398}, {"track_id": 5, "class_id": 2, "bbox": [826.3, 298.5, 875.5, 324.0], "score": 0.457}, {"track_id": 7, "class_id": 2, "bbox": [237.4, 294.2, 268.4, 310.6], "score": 0.399}, {"track_id": 29, "class_id": 2, "bbox": [672.6, 292.2, 699.5, 310.4], "score": 0.53}]}
+{"frame": 64, "timestamp_ms": 2560.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.5, 299.4, 560.7, 317.2], "score": 0.447}, {"track_id": 5, "class_id": 2, "bbox": [827.7, 297.3, 876.3, 323.8], "score": 0.625}, {"track_id": 29, "class_id": 2, "bbox": [671.8, 292.5, 700.6, 311.1], "score": 0.585}]}
+{"frame": 65, "timestamp_ms": 2600.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.7, 299.7, 560.9, 317.4], "score": 0.467}, {"track_id": 5, "class_id": 2, "bbox": [828.7, 296.4, 878.9, 323.5], "score": 0.432}, {"track_id": 29, "class_id": 2, "bbox": [671.3, 292.5, 701.0, 311.6], "score": 0.589}, {"track_id": 44, "class_id": 2, "bbox": [54.7, 303.7, 101.1, 326.9], "score": 0.626}, {"track_id": 45, "class_id": 2, "bbox": [97.2, 299.2, 136.4, 319.8], "score": 0.516}]}
+{"frame": 66, "timestamp_ms": 2640.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.0, 300.7, 561.2, 317.9], "score": 0.516}, {"track_id": 5, "class_id": 2, "bbox": [829.9, 296.4, 876.7, 323.5], "score": 0.413}, {"track_id": 7, "class_id": 2, "bbox": [214.7, 294.7, 250.0, 313.9], "score": 0.436}, {"track_id": 29, "class_id": 2, "bbox": [671.4, 293.1, 701.1, 312.4], "score": 0.562}, {"track_id": 45, "class_id": 2, "bbox": [91.6, 299.7, 131.0, 320.2], "score": 0.459}, {"track_id": 46, "class_id": 2, "bbox": [30.3, 304.2, 82.5, 329.4], "score": 0.649}]}
+{"frame": 67, "timestamp_ms": 2680.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.1, 301.1, 561.0, 318.1], "score": 0.521}, {"track_id": 5, "class_id": 2, "bbox": [829.8, 296.7, 879.2, 323.9], "score": 0.566}, {"track_id": 29, "class_id": 2, "bbox": [672.2, 293.9, 700.9, 312.7], "score": 0.601}, {"track_id": 47, "class_id": 2, "bbox": [5.4, 305.5, 61.0, 331.4], "score": 0.717}, {"track_id": 48, "class_id": 2, "bbox": [84.1, 300.1, 118.4, 317.4], "score": 0.62}]}
+{"frame": 68, "timestamp_ms": 2720.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.4, 301.6, 560.8, 318.3], "score": 0.508}, {"track_id": 5, "class_id": 2, "bbox": [830.5, 296.8, 881.5, 324.8], "score": 0.489}, {"track_id": 7, "class_id": 2, "bbox": [197.9, 296.3, 236.8, 316.4], "score": 0.413}, {"track_id": 29, "class_id": 2, "bbox": [672.9, 294.6, 700.9, 313.2], "score": 0.512}, {"track_id": 49, "class_id": 2, "bbox": [0.0, 303.6, 36.0, 332.4], "score": 0.665}, {"track_id": 50, "class_id": 2, "bbox": [73.2, 301.0, 110.6, 316.8], "score": 0.582}]}
+{"frame": 69, "timestamp_ms": 2760.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.6, 301.8, 560.8, 318.5], "score": 0.576}, {"track_id": 5, "class_id": 2, "bbox": [830.7, 296.9, 884.8, 325.5], "score": 0.589}, {"track_id": 29, "class_id": 2, "bbox": [673.4, 294.8, 701.0, 313.7], "score": 0.588}, {"track_id": 51, "class_id": 2, "bbox": [64.5, 300.6, 101.9, 316.4], "score": 0.554}]}
+{"frame": 70, "timestamp_ms": 2800.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.7, 302.1, 560.8, 318.4], "score": 0.533}, {"track_id": 5, "class_id": 2, "bbox": [831.5, 296.7, 887.2, 325.7], "score": 0.593}, {"track_id": 7, "class_id": 2, "bbox": [181.2, 297.2, 220.7, 317.6], "score": 0.404}, {"track_id": 29, "class_id": 2, "bbox": [673.6, 294.9, 701.5, 313.9], "score": 0.581}, {"track_id": 52, "class_id": 2, "bbox": [55.0, 301.7, 94.5, 316.8], "score": 0.551}]}
+{"frame": 71, "timestamp_ms": 2840.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.6, 302.2, 561.0, 318.1], "score": 0.477}, {"track_id": 5, "class_id": 2, "bbox": [832.5, 296.8, 888.6, 326.4], "score": 0.571}, {"track_id": 29, "class_id": 2, "bbox": [673.5, 294.9, 701.9, 314.2], "score": 0.569}, {"track_id": 52, "class_id": 2, "bbox": [49.2, 301.6, 89.0, 317.3], "score": 0.436}]}
+{"frame": 72, "timestamp_ms": 2880.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.6, 302.2, 561.2, 318.1], "score": 0.454}, {"track_id": 29, "class_id": 2, "bbox": [673.5, 294.7, 702.3, 314.5], "score": 0.585}, {"track_id": 35, "class_id": 2, "bbox": [852.6, 298.2, 889.4, 325.5], "score": 0.477}, {"track_id": 53, "class_id": 2, "bbox": [37.8, 302.8, 73.0, 322.6], "score": 0.503}]}
+{"frame": 73, "timestamp_ms": 2920.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.7, 302.5, 561.2, 318.3], "score": 0.474}, {"track_id": 5, "class_id": 2, "bbox": [834.4, 297.5, 890.6, 327.2], "score": 0.467}, {"track_id": 29, "class_id": 2, "bbox": [673.7, 294.8, 703.7, 315.0], "score": 0.522}, {"track_id": 54, "class_id": 2, "bbox": [24.7, 304.1, 63.8, 324.1], "score": 0.556}]}
+{"frame": 74, "timestamp_ms": 2960.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.9, 302.6, 560.9, 318.3], "score": 0.432}, {"track_id": 5, "class_id": 2, "bbox": [834.6, 297.5, 892.0, 326.9], "score": 0.369}, {"track_id": 29, "class_id": 2, "bbox": [674.1, 294.8, 704.8, 315.1], "score": 0.545}]}
+{"frame": 75, "timestamp_ms": 3000.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.9, 302.8, 560.5, 318.4], "score": 0.362}, {"track_id": 5, "class_id": 2, "bbox": [836.0, 297.7, 892.5, 327.1], "score": 0.419}, {"track_id": 29, "class_id": 2, "bbox": [675.1, 294.9, 705.5, 315.0], "score": 0.499}, {"track_id": 55, "class_id": 2, "bbox": [1.1, 304.3, 45.8, 324.7], "score": 0.548}, {"track_id": 56, "class_id": 2, "bbox": [117.1, 299.1, 165.2, 325.0], "score": 0.546}]}
+{"frame": 76, "timestamp_ms": 3040.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.8, 302.8, 560.4, 318.5], "score": 0.407}, {"track_id": 5, "class_id": 2, "bbox": [837.2, 297.3, 894.0, 327.1], "score": 0.415}, {"track_id": 29, "class_id": 2, "bbox": [675.7, 295.0, 705.5, 315.0], "score": 0.485}, {"track_id": 57, "class_id": 2, "bbox": [0.1, 304.7, 37.7, 325.6], "score": 0.534}, {"track_id": 58, "class_id": 2, "bbox": [99.4, 299.0, 148.8, 326.2], "score": 0.523}]}
+{"frame": 77, "timestamp_ms": 3080.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.7, 302.8, 560.4, 318.4], "score": 0.474}, {"track_id": 29, "class_id": 2, "bbox": [676.0, 295.1, 705.7, 314.8], "score": 0.486}, {"track_id": 57, "class_id": 2, "bbox": [0.0, 304.5, 29.4, 326.1], "score": 0.432}, {"track_id": 59, "class_id": 2, "bbox": [77.6, 298.1, 134.4, 327.6], "score": 0.657}]}
+{"frame": 78, "timestamp_ms": 3120.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.6, 302.7, 560.6, 318.3], "score": 0.49}, {"track_id": 5, "class_id": 2, "bbox": [840.4, 297.3, 895.6, 326.9], "score": 0.384}, {"track_id": 29, "class_id": 2, "bbox": [675.6, 295.1, 705.4, 314.8], "score": 0.524}, {"track_id": 60, "class_id": 2, "bbox": [58.3, 298.7, 117.8, 327.8], "score": 0.581}]}
+{"frame": 79, "timestamp_ms": 3160.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.5, 302.6, 560.6, 318.0], "score": 0.46}, {"track_id": 29, "class_id": 2, "bbox": [675.9, 295.0, 704.7, 314.8], "score": 0.48}, {"track_id": 61, "class_id": 2, "bbox": [32.3, 298.9, 98.2, 328.9], "score": 0.613}]}
+{"frame": 80, "timestamp_ms": 3200.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.4, 302.5, 560.4, 317.8], "score": 0.487}, {"track_id": 5, "class_id": 2, "bbox": [841.7, 297.5, 898.4, 327.0], "score": 0.404}, {"track_id": 29, "class_id": 2, "bbox": [676.2, 295.2, 704.8, 314.7], "score": 0.584}, {"track_id": 62, "class_id": 2, "bbox": [10.6, 299.2, 80.7, 330.2], "score": 0.668}]}
+{"frame": 81, "timestamp_ms": 3240.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.4, 302.5, 560.1, 318.0], "score": 0.462}, {"track_id": 5, "class_id": 2, "bbox": [841.8, 297.3, 900.1, 327.6], "score": 0.477}, {"track_id": 29, "class_id": 2, "bbox": [676.3, 295.2, 705.3, 314.6], "score": 0.55}, {"track_id": 41, "class_id": 2, "bbox": [0.5, 297.9, 59.1, 330.7], "score": 0.7}]}
+{"frame": 82, "timestamp_ms": 3280.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.4, 302.5, 559.9, 318.0], "score": 0.431}, {"track_id": 5, "class_id": 2, "bbox": [849.9, 297.4, 901.5, 327.7], "score": 0.42}, {"track_id": 29, "class_id": 2, "bbox": [677.0, 295.1, 705.9, 314.4], "score": 0.535}, {"track_id": 63, "class_id": 2, "bbox": [0.1, 296.6, 34.2, 330.9], "score": 0.695}]}
+{"frame": 83, "timestamp_ms": 3320.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.2, 302.6, 559.8, 318.1], "score": 0.39}, {"track_id": 29, "class_id": 2, "bbox": [677.4, 295.2, 706.3, 314.3], "score": 0.538}, {"track_id": 37, "class_id": 2, "bbox": [150.0, 299.9, 190.2, 324.1], "score": 0.392}]}
+{"frame": 84, "timestamp_ms": 3360.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.0, 302.4, 560.0, 318.1], "score": 0.394}, {"track_id": 29, "class_id": 2, "bbox": [677.5, 295.3, 706.8, 314.8], "score": 0.527}, {"track_id": 64, "class_id": 2, "bbox": [845.4, 296.2, 905.9, 328.2], "score": 0.538}]}
+{"frame": 85, "timestamp_ms": 3400.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.9, 302.4, 560.2, 317.9], "score": 0.405}, {"track_id": 29, "class_id": 2, "bbox": [678.1, 295.4, 706.4, 315.1], "score": 0.498}, {"track_id": 56, "class_id": 2, "bbox": [114.5, 299.7, 163.9, 322.4], "score": 0.424}, {"track_id": 64, "class_id": 2, "bbox": [847.6, 296.5, 906.6, 328.5], "score": 0.565}]}
+{"frame": 86, "timestamp_ms": 3440.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.7, 302.3, 560.0, 317.8], "score": 0.482}, {"track_id": 29, "class_id": 2, "bbox": [678.3, 295.5, 706.1, 315.4], "score": 0.472}, {"track_id": 64, "class_id": 2, "bbox": [848.6, 296.8, 907.8, 328.7], "score": 0.608}, {"track_id": 65, "class_id": 2, "bbox": [95.7, 299.8, 150.1, 329.7], "score": 0.624}]}
+{"frame": 87, "timestamp_ms": 3480.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.7, 302.3, 559.6, 317.8], "score": 0.425}, {"track_id": 29, "class_id": 2, "bbox": [678.1, 295.8, 706.4, 316.4], "score": 0.442}, {"track_id": 64, "class_id": 2, "bbox": [849.2, 296.9, 908.7, 329.1], "score": 0.641}, {"track_id": 66, "class_id": 2, "bbox": [74.8, 298.1, 127.2, 324.2], "score": 0.539}]}
+{"frame": 88, "timestamp_ms": 3520.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.6, 302.2, 559.4, 317.8], "score": 0.47}, {"track_id": 29, "class_id": 2, "bbox": [676.6, 295.7, 706.1, 316.7], "score": 0.432}, {"track_id": 64, "class_id": 2, "bbox": [850.1, 296.9, 910.2, 329.2], "score": 0.539}, {"track_id": 67, "class_id": 2, "bbox": [52.8, 299.4, 106.0, 325.8], "score": 0.576}]}
+{"frame": 89, "timestamp_ms": 3560.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.5, 302.2, 559.3, 317.6], "score": 0.432}, {"track_id": 29, "class_id": 2, "bbox": [675.9, 295.9, 706.8, 317.3], "score": 0.438}, {"track_id": 64, "class_id": 2, "bbox": [850.2, 296.2, 911.4, 329.5], "score": 0.651}, {"track_id": 68, "class_id": 2, "bbox": [20.0, 298.8, 81.0, 325.9], "score": 0.531}]}
+{"frame": 90, "timestamp_ms": 3600.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.8, 302.2, 559.3, 317.8], "score": 0.464}, {"track_id": 41, "class_id": 2, "bbox": [0.3, 299.8, 54.6, 329.9], "score": 0.595}, {"track_id": 64, "class_id": 2, "bbox": [850.5, 297.1, 913.8, 330.7], "score": 0.588}, {"track_id": 69, "class_id": 2, "bbox": [675.6, 299.2, 708.9, 318.1], "score": 0.653}]}
+{"frame": 91, "timestamp_ms": 3640.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [529.8, 302.6, 559.4, 318.9], "score": 0.426}, {"track_id": 64, "class_id": 2, "bbox": [851.3, 298.1, 915.6, 331.4], "score": 0.502}, {"track_id": 69, "class_id": 2, "bbox": [676.7, 299.4, 708.9, 319.6], "score": 0.655}]}
+{"frame": 92, "timestamp_ms": 3680.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [853.1, 299.0, 918.2, 333.3], "score": 0.58}, {"track_id": 69, "class_id": 2, "bbox": [677.6, 300.5, 709.2, 320.7], "score": 0.721}]}
+{"frame": 93, "timestamp_ms": 3720.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.2, 303.8, 559.6, 320.4], "score": 0.378}, {"track_id": 64, "class_id": 2, "bbox": [855.0, 299.9, 920.7, 334.3], "score": 0.592}, {"track_id": 69, "class_id": 2, "bbox": [678.7, 301.4, 708.5, 321.3], "score": 0.722}]}
+{"frame": 94, "timestamp_ms": 3760.0, "tracks": [{"track_id": 1, "class_id": 2, "bbox": [530.2, 304.3, 559.9, 320.9], "score": 0.365}, {"track_id": 64, "class_id": 2, "bbox": [858.8, 301.1, 921.9, 334.3], "score": 0.465}, {"track_id": 69, "class_id": 2, "bbox": [679.5, 301.6, 708.4, 321.6], "score": 0.7}]}
+{"frame": 95, "timestamp_ms": 3800.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [863.0, 301.4, 922.6, 334.1], "score": 0.417}, {"track_id": 69, "class_id": 2, "bbox": [679.8, 301.4, 708.3, 321.5], "score": 0.675}]}
+{"frame": 96, "timestamp_ms": 3840.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [862.2, 300.5, 924.3, 334.3], "score": 0.551}, {"track_id": 69, "class_id": 2, "bbox": [679.7, 300.6, 708.6, 321.2], "score": 0.609}]}
+{"frame": 97, "timestamp_ms": 3880.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [861.3, 299.3, 928.5, 334.1], "score": 0.742}, {"track_id": 69, "class_id": 2, "bbox": [679.6, 299.9, 709.0, 320.4], "score": 0.603}, {"track_id": 70, "class_id": 2, "bbox": [223.4, 303.0, 256.9, 320.3], "score": 0.502}]}
+{"frame": 98, "timestamp_ms": 3920.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [861.4, 298.0, 929.7, 333.5], "score": 0.676}, {"track_id": 69, "class_id": 2, "bbox": [678.9, 299.2, 709.9, 319.9], "score": 0.528}, {"track_id": 70, "class_id": 2, "bbox": [218.0, 302.7, 253.2, 321.1], "score": 0.457}]}
+{"frame": 99, "timestamp_ms": 3960.0, "tracks": [{"track_id": 37, "class_id": 2, "bbox": [159.1, 302.9, 194.8, 322.1], "score": 0.353}, {"track_id": 64, "class_id": 2, "bbox": [862.9, 296.9, 932.3, 332.8], "score": 0.594}, {"track_id": 69, "class_id": 2, "bbox": [678.8, 298.9, 710.7, 319.8], "score": 0.613}, {"track_id": 70, "class_id": 2, "bbox": [207.1, 302.1, 244.9, 321.5], "score": 0.493}]}
+{"frame": 100, "timestamp_ms": 4000.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [864.0, 296.2, 935.0, 332.2], "score": 0.716}, {"track_id": 69, "class_id": 2, "bbox": [678.8, 298.8, 711.8, 319.9], "score": 0.638}, {"track_id": 71, "class_id": 2, "bbox": [147.0, 302.8, 186.6, 322.7], "score": 0.536}, {"track_id": 72, "class_id": 2, "bbox": [191.9, 301.9, 229.9, 322.1], "score": 0.534}]}
+{"frame": 101, "timestamp_ms": 4040.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [865.9, 295.6, 936.7, 331.9], "score": 0.711}, {"track_id": 69, "class_id": 2, "bbox": [679.5, 298.4, 712.8, 319.9], "score": 0.592}, {"track_id": 73, "class_id": 2, "bbox": [180.8, 302.2, 219.0, 321.9], "score": 0.555}, {"track_id": 74, "class_id": 2, "bbox": [270.2, 300.7, 294.8, 313.9], "score": 0.516}]}
+{"frame": 102, "timestamp_ms": 4080.0, "tracks": [{"track_id": 56, "class_id": 2, "bbox": [122.3, 302.6, 162.0, 324.3], "score": 0.46}, {"track_id": 64, "class_id": 2, "bbox": [867.6, 294.9, 937.9, 331.3], "score": 0.543}, {"track_id": 69, "class_id": 2, "bbox": [680.0, 298.4, 713.3, 319.8], "score": 0.543}, {"track_id": 74, "class_id": 2, "bbox": [269.3, 301.4, 293.1, 314.1], "score": 0.457}]}
+{"frame": 103, "timestamp_ms": 4120.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [869.1, 295.4, 938.8, 332.4], "score": 0.669}, {"track_id": 69, "class_id": 2, "bbox": [680.2, 298.3, 713.7, 320.1], "score": 0.53}, {"track_id": 75, "class_id": 2, "bbox": [265.0, 301.8, 290.1, 315.1], "score": 0.531}, {"track_id": 76, "class_id": 2, "bbox": [104.2, 301.9, 147.2, 325.5], "score": 0.525}]}
+{"frame": 104, "timestamp_ms": 4160.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [870.7, 294.7, 941.0, 332.5], "score": 0.666}, {"track_id": 69, "class_id": 2, "bbox": [680.7, 298.1, 714.0, 320.2], "score": 0.547}, {"track_id": 75, "class_id": 2, "bbox": [262.7, 301.4, 287.1, 314.8], "score": 0.398}]}
+{"frame": 105, "timestamp_ms": 4200.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [872.1, 294.8, 942.4, 333.3], "score": 0.674}, {"track_id": 69, "class_id": 2, "bbox": [681.0, 297.9, 714.1, 320.2], "score": 0.529}, {"track_id": 77, "class_id": 2, "bbox": [194.0, 303.4, 238.1, 319.8], "score": 0.572}, {"track_id": 78, "class_id": 2, "bbox": [258.0, 300.5, 283.0, 315.1], "score": 0.549}]}
+{"frame": 106, "timestamp_ms": 4240.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [873.7, 294.7, 944.5, 333.9], "score": 0.727}, {"track_id": 69, "class_id": 2, "bbox": [681.2, 297.8, 714.4, 320.6], "score": 0.515}, {"track_id": 79, "class_id": 2, "bbox": [252.9, 301.4, 281.2, 315.5], "score": 0.566}, {"track_id": 80, "class_id": 2, "bbox": [185.9, 303.7, 224.5, 319.4], "score": 0.522}]}
+{"frame": 107, "timestamp_ms": 4280.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [875.0, 295.2, 946.5, 334.1], "score": 0.766}, {"track_id": 69, "class_id": 2, "bbox": [681.4, 297.9, 715.2, 321.0], "score": 0.529}, {"track_id": 81, "class_id": 2, "bbox": [249.8, 301.7, 274.4, 315.9], "score": 0.584}, {"track_id": 82, "class_id": 2, "bbox": [174.7, 304.1, 215.7, 320.5], "score": 0.521}]}
+{"frame": 108, "timestamp_ms": 4320.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [877.0, 296.2, 948.4, 334.7], "score": 0.695}, {"track_id": 69, "class_id": 2, "bbox": [681.0, 298.4, 716.0, 321.2], "score": 0.518}, {"track_id": 83, "class_id": 2, "bbox": [245.9, 302.1, 274.0, 317.5], "score": 0.592}, {"track_id": 84, "class_id": 2, "bbox": [161.0, 304.3, 203.9, 321.6], "score": 0.527}]}
+{"frame": 109, "timestamp_ms": 4360.0, "tracks": [{"track_id": 62, "class_id": 2, "bbox": [1.0, 300.2, 78.4, 335.1], "score": 0.381}, {"track_id": 64, "class_id": 2, "bbox": [879.4, 297.1, 951.9, 335.3], "score": 0.679}, {"track_id": 69, "class_id": 2, "bbox": [680.6, 298.7, 717.3, 321.4], "score": 0.57}, {"track_id": 71, "class_id": 2, "bbox": [146.7, 305.1, 192.0, 322.6], "score": 0.395}, {"track_id": 85, "class_id": 2, "bbox": [240.5, 302.4, 270.7, 318.2], "score": 0.604}]}
+{"frame": 110, "timestamp_ms": 4400.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [881.4, 297.9, 955.0, 335.9], "score": 0.721}, {"track_id": 69, "class_id": 2, "bbox": [681.6, 299.4, 717.7, 322.2], "score": 0.552}, {"track_id": 86, "class_id": 2, "bbox": [237.4, 302.1, 264.4, 318.0], "score": 0.67}]}
+{"frame": 111, "timestamp_ms": 4440.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [882.9, 298.3, 957.0, 335.8], "score": 0.682}, {"track_id": 69, "class_id": 2, "bbox": [682.4, 299.6, 717.5, 322.5], "score": 0.577}, {"track_id": 87, "class_id": 2, "bbox": [232.9, 302.7, 259.5, 317.8], "score": 0.589}, {"track_id": 88, "class_id": 2, "bbox": [115.3, 305.4, 167.4, 326.1], "score": 0.505}]}
+{"frame": 112, "timestamp_ms": 4480.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [885.1, 298.3, 959.1, 335.7], "score": 0.746}, {"track_id": 69, "class_id": 2, "bbox": [683.0, 299.4, 717.0, 321.9], "score": 0.599}, {"track_id": 76, "class_id": 2, "bbox": [99.1, 304.9, 150.7, 325.6], "score": 0.474}, {"track_id": 89, "class_id": 2, "bbox": [227.4, 302.4, 254.2, 317.9], "score": 0.644}]}
+{"frame": 113, "timestamp_ms": 4520.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [887.5, 298.3, 960.3, 335.7], "score": 0.773}, {"track_id": 66, "class_id": 2, "bbox": [82.7, 305.5, 134.4, 327.3], "score": 0.353}, {"track_id": 69, "class_id": 2, "bbox": [683.7, 299.1, 717.4, 322.2], "score": 0.617}, {"track_id": 90, "class_id": 2, "bbox": [222.9, 302.3, 251.0, 318.3], "score": 0.623}]}
+{"frame": 114, "timestamp_ms": 4560.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [888.2, 298.2, 960.5, 335.6], "score": 0.687}, {"track_id": 69, "class_id": 2, "bbox": [684.5, 299.0, 718.3, 322.5], "score": 0.636}, {"track_id": 91, "class_id": 2, "bbox": [57.0, 305.1, 116.5, 328.6], "score": 0.547}]}
+{"frame": 115, "timestamp_ms": 4600.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [890.3, 297.7, 960.4, 335.7], "score": 0.756}, {"track_id": 69, "class_id": 2, "bbox": [685.1, 299.0, 719.6, 322.6], "score": 0.715}, {"track_id": 92, "class_id": 2, "bbox": [27.6, 305.0, 97.4, 329.3], "score": 0.625}, {"track_id": 93, "class_id": 2, "bbox": [527.7, 301.5, 555.9, 319.3], "score": 0.515}]}
+{"frame": 116, "timestamp_ms": 4640.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [892.1, 298.1, 960.2, 336.3], "score": 0.723}, {"track_id": 69, "class_id": 2, "bbox": [685.8, 299.1, 720.8, 322.8], "score": 0.678}, {"track_id": 93, "class_id": 2, "bbox": [528.0, 301.5, 555.7, 319.1], "score": 0.544}, {"track_id": 94, "class_id": 2, "bbox": [2.1, 305.3, 75.0, 329.8], "score": 0.594}]}
+{"frame": 117, "timestamp_ms": 4680.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [893.7, 298.7, 959.9, 336.4], "score": 0.739}, {"track_id": 69, "class_id": 2, "bbox": [686.5, 299.1, 721.8, 323.0], "score": 0.573}, {"track_id": 93, "class_id": 2, "bbox": [527.2, 301.6, 555.4, 319.0], "score": 0.491}]}
+{"frame": 118, "timestamp_ms": 4720.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [896.4, 298.7, 959.8, 336.4], "score": 0.744}, {"track_id": 69, "class_id": 2, "bbox": [686.9, 299.0, 722.0, 323.0], "score": 0.543}, {"track_id": 93, "class_id": 2, "bbox": [526.9, 301.9, 555.3, 318.8], "score": 0.472}]}
+{"frame": 119, "timestamp_ms": 4760.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [898.1, 298.8, 959.6, 337.0], "score": 0.768}, {"track_id": 69, "class_id": 2, "bbox": [688.2, 299.9, 721.9, 323.2], "score": 0.483}, {"track_id": 80, "class_id": 2, "bbox": [190.3, 302.4, 223.9, 316.5], "score": 0.393}, {"track_id": 93, "class_id": 2, "bbox": [526.8, 301.9, 555.3, 318.8], "score": 0.523}]}
+{"frame": 120, "timestamp_ms": 4800.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [899.6, 298.5, 959.6, 337.6], "score": 0.795}, {"track_id": 69, "class_id": 2, "bbox": [688.8, 300.2, 721.9, 323.3], "score": 0.5}, {"track_id": 73, "class_id": 2, "bbox": [181.5, 302.3, 217.8, 317.7], "score": 0.393}, {"track_id": 93, "class_id": 2, "bbox": [527.1, 301.7, 555.7, 318.9], "score": 0.723}]}
+{"frame": 121, "timestamp_ms": 4840.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [901.4, 298.4, 959.6, 338.3], "score": 0.75}, {"track_id": 69, "class_id": 2, "bbox": [689.8, 300.5, 722.1, 323.0], "score": 0.483}, {"track_id": 82, "class_id": 2, "bbox": [175.2, 302.5, 210.5, 319.0], "score": 0.434}, {"track_id": 93, "class_id": 2, "bbox": [527.1, 301.7, 555.8, 319.2], "score": 0.685}]}
+{"frame": 122, "timestamp_ms": 4880.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [904.2, 298.0, 959.6, 338.7], "score": 0.732}, {"track_id": 69, "class_id": 2, "bbox": [690.7, 300.6, 722.1, 323.2], "score": 0.444}, {"track_id": 84, "class_id": 2, "bbox": [169.0, 302.4, 204.6, 320.2], "score": 0.469}, {"track_id": 93, "class_id": 2, "bbox": [526.9, 301.9, 555.6, 319.3], "score": 0.631}]}
+{"frame": 123, "timestamp_ms": 4920.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [906.0, 298.9, 959.6, 339.8], "score": 0.692}, {"track_id": 69, "class_id": 2, "bbox": [690.9, 301.0, 722.3, 324.3], "score": 0.469}, {"track_id": 93, "class_id": 2, "bbox": [527.3, 302.5, 555.3, 319.2], "score": 0.594}, {"track_id": 95, "class_id": 2, "bbox": [160.0, 302.9, 196.5, 322.0], "score": 0.588}]}
+{"frame": 124, "timestamp_ms": 4960.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [907.9, 299.1, 959.6, 340.0], "score": 0.734}, {"track_id": 69, "class_id": 2, "bbox": [690.7, 301.3, 723.8, 324.6], "score": 0.536}, {"track_id": 93, "class_id": 2, "bbox": [527.4, 302.8, 554.8, 319.1], "score": 0.658}, {"track_id": 95, "class_id": 2, "bbox": [154.1, 302.7, 192.1, 321.6], "score": 0.481}]}
+{"frame": 125, "timestamp_ms": 5000.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [910.7, 299.3, 959.6, 340.5], "score": 0.767}, {"track_id": 69, "class_id": 2, "bbox": [690.5, 301.3, 724.5, 325.3], "score": 0.465}, {"track_id": 93, "class_id": 2, "bbox": [527.2, 302.9, 554.6, 318.8], "score": 0.657}, {"track_id": 95, "class_id": 2, "bbox": [147.1, 303.0, 182.8, 321.6], "score": 0.35}]}
+{"frame": 126, "timestamp_ms": 5040.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [912.2, 299.6, 959.5, 340.9], "score": 0.713}, {"track_id": 69, "class_id": 2, "bbox": [689.8, 302.0, 725.5, 326.2], "score": 0.55}, {"track_id": 71, "class_id": 2, "bbox": [141.2, 303.2, 199.0, 322.4], "score": 0.381}, {"track_id": 93, "class_id": 2, "bbox": [527.0, 303.3, 554.7, 319.1], "score": 0.699}, {"track_id": 95, "class_id": 2, "bbox": [137.8, 302.7, 171.3, 321.9], "score": 0.429}]}
+{"frame": 127, "timestamp_ms": 5080.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [914.4, 299.5, 959.5, 341.2], "score": 0.698}, {"track_id": 69, "class_id": 2, "bbox": [689.9, 302.6, 725.8, 326.5], "score": 0.615}, {"track_id": 93, "class_id": 2, "bbox": [526.7, 304.3, 554.9, 319.9], "score": 0.659}]}
+{"frame": 128, "timestamp_ms": 5120.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [916.0, 299.2, 959.6, 341.3], "score": 0.736}, {"track_id": 69, "class_id": 2, "bbox": [689.8, 302.7, 725.7, 326.8], "score": 0.611}, {"track_id": 93, "class_id": 2, "bbox": [526.6, 304.8, 555.0, 320.3], "score": 0.676}]}
+{"frame": 129, "timestamp_ms": 5160.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [918.0, 298.8, 959.6, 341.3], "score": 0.714}, {"track_id": 69, "class_id": 2, "bbox": [689.7, 302.3, 725.9, 326.7], "score": 0.613}, {"track_id": 93, "class_id": 2, "bbox": [526.6, 304.5, 554.6, 320.1], "score": 0.687}]}
+{"frame": 130, "timestamp_ms": 5200.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [920.5, 299.2, 959.6, 340.9], "score": 0.679}, {"track_id": 69, "class_id": 2, "bbox": [689.2, 302.0, 726.1, 326.6], "score": 0.533}, {"track_id": 93, "class_id": 2, "bbox": [526.4, 304.2, 553.7, 319.8], "score": 0.663}]}
+{"frame": 131, "timestamp_ms": 5240.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [923.2, 299.4, 959.6, 340.6], "score": 0.707}, {"track_id": 69, "class_id": 2, "bbox": [688.8, 301.7, 726.3, 325.9], "score": 0.59}, {"track_id": 93, "class_id": 2, "bbox": [526.2, 303.9, 552.9, 319.9], "score": 0.689}]}
+{"frame": 132, "timestamp_ms": 5280.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [925.3, 299.5, 959.5, 340.5], "score": 0.72}, {"track_id": 69, "class_id": 2, "bbox": [690.5, 301.5, 726.9, 326.1], "score": 0.616}, {"track_id": 91, "class_id": 2, "bbox": [67.4, 303.8, 133.4, 327.2], "score": 0.472}, {"track_id": 93, "class_id": 2, "bbox": [525.8, 303.9, 552.5, 320.3], "score": 0.695}]}
+{"frame": 133, "timestamp_ms": 5320.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [927.3, 301.2, 959.5, 340.7], "score": 0.609}, {"track_id": 69, "class_id": 2, "bbox": [690.6, 301.7, 728.2, 326.5], "score": 0.603}, {"track_id": 93, "class_id": 2, "bbox": [525.3, 304.5, 552.1, 320.9], "score": 0.589}]}
+{"frame": 134, "timestamp_ms": 5360.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [930.1, 303.8, 959.6, 341.1], "score": 0.58}, {"track_id": 69, "class_id": 2, "bbox": [690.2, 301.4, 729.4, 327.1], "score": 0.592}, {"track_id": 93, "class_id": 2, "bbox": [524.8, 304.5, 551.8, 321.1], "score": 0.664}]}
+{"frame": 135, "timestamp_ms": 5400.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [932.6, 304.5, 959.6, 341.2], "score": 0.496}, {"track_id": 69, "class_id": 2, "bbox": [690.3, 301.4, 729.8, 327.8], "score": 0.569}, {"track_id": 93, "class_id": 2, "bbox": [524.7, 304.9, 551.6, 321.4], "score": 0.518}]}
+{"frame": 136, "timestamp_ms": 5440.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [935.3, 306.0, 959.7, 342.0], "score": 0.558}, {"track_id": 69, "class_id": 2, "bbox": [690.0, 301.9, 729.7, 328.2], "score": 0.691}, {"track_id": 93, "class_id": 2, "bbox": [524.8, 305.6, 551.4, 321.8], "score": 0.462}, {"track_id": 94, "class_id": 2, "bbox": [7.3, 304.4, 73.3, 331.7], "score": 0.545}]}
+{"frame": 137, "timestamp_ms": 5480.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [937.8, 307.4, 959.6, 342.1], "score": 0.438}, {"track_id": 69, "class_id": 2, "bbox": [690.9, 302.3, 729.6, 327.9], "score": 0.644}, {"track_id": 93, "class_id": 2, "bbox": [524.7, 305.6, 551.2, 321.7], "score": 0.417}, {"track_id": 96, "class_id": 2, "bbox": [0.4, 303.5, 53.7, 331.9], "score": 0.61}]}
+{"frame": 138, "timestamp_ms": 5520.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [940.2, 308.0, 959.6, 342.8], "score": 0.417}, {"track_id": 69, "class_id": 2, "bbox": [692.0, 302.5, 729.6, 327.7], "score": 0.645}, {"track_id": 93, "class_id": 2, "bbox": [524.5, 305.5, 550.5, 321.3], "score": 0.412}, {"track_id": 96, "class_id": 2, "bbox": [0.1, 303.7, 42.4, 331.8], "score": 0.428}]}
+{"frame": 139, "timestamp_ms": 5560.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [693.2, 301.8, 729.5, 327.6], "score": 0.654}, {"track_id": 93, "class_id": 2, "bbox": [523.9, 304.9, 549.9, 320.7], "score": 0.57}]}
+{"frame": 140, "timestamp_ms": 5600.0, "tracks": [{"track_id": 64, "class_id": 2, "bbox": [945.0, 309.6, 959.6, 343.3], "score": 0.419}, {"track_id": 69, "class_id": 2, "bbox": [693.9, 301.3, 730.4, 328.1], "score": 0.725}, {"track_id": 93, "class_id": 2, "bbox": [522.9, 304.6, 549.2, 320.3], "score": 0.639}]}
+{"frame": 141, "timestamp_ms": 5640.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [694.3, 301.7, 731.5, 329.1], "score": 0.811}, {"track_id": 93, "class_id": 2, "bbox": [522.5, 304.8, 548.6, 320.7], "score": 0.585}]}
+{"frame": 142, "timestamp_ms": 5680.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [694.9, 301.8, 732.4, 329.6], "score": 0.785}, {"track_id": 93, "class_id": 2, "bbox": [522.2, 305.1, 548.1, 320.9], "score": 0.624}]}
+{"frame": 143, "timestamp_ms": 5720.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [695.0, 301.3, 733.2, 329.7], "score": 0.7}, {"track_id": 93, "class_id": 2, "bbox": [521.8, 305.3, 547.5, 320.9], "score": 0.538}]}
+{"frame": 144, "timestamp_ms": 5760.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [694.9, 301.7, 733.4, 329.1], "score": 0.592}, {"track_id": 93, "class_id": 2, "bbox": [521.7, 305.7, 547.5, 321.5], "score": 0.493}]}
+{"frame": 145, "timestamp_ms": 5800.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [695.7, 301.3, 733.4, 328.7], "score": 0.573}, {"track_id": 93, "class_id": 2, "bbox": [521.4, 305.6, 547.6, 321.7], "score": 0.517}]}
+{"frame": 146, "timestamp_ms": 5840.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [696.2, 301.1, 733.3, 328.6], "score": 0.502}, {"track_id": 93, "class_id": 2, "bbox": [521.2, 305.5, 547.5, 321.8], "score": 0.472}]}
+{"frame": 147, "timestamp_ms": 5880.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [696.9, 301.0, 734.1, 328.9], "score": 0.512}, {"track_id": 93, "class_id": 2, "bbox": [521.1, 305.5, 547.4, 321.8], "score": 0.49}]}
+{"frame": 148, "timestamp_ms": 5920.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [697.7, 301.9, 734.6, 328.6], "score": 0.415}, {"track_id": 93, "class_id": 2, "bbox": [521.0, 305.8, 547.4, 321.7], "score": 0.402}]}
+{"frame": 149, "timestamp_ms": 5960.0, "tracks": [{"track_id": 91, "class_id": 2, "bbox": [97.0, 301.9, 145.6, 328.6], "score": 0.37}, {"track_id": 93, "class_id": 2, "bbox": [520.9, 306.0, 547.3, 321.6], "score": 0.413}]}
+{"frame": 150, "timestamp_ms": 6000.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [699.0, 303.2, 737.3, 328.8], "score": 0.444}]}
+{"frame": 151, "timestamp_ms": 6040.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [698.9, 303.4, 738.4, 329.2], "score": 0.504}]}
+{"frame": 152, "timestamp_ms": 6080.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [699.2, 303.4, 740.3, 329.4], "score": 0.393}]}
+{"frame": 153, "timestamp_ms": 6120.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [699.4, 303.4, 740.9, 329.9], "score": 0.551}, {"track_id": 97, "class_id": 2, "bbox": [10.6, 299.8, 82.2, 335.4], "score": 0.592}]}
+{"frame": 154, "timestamp_ms": 6160.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [699.9, 303.6, 740.4, 329.2], "score": 0.516}, {"track_id": 94, "class_id": 2, "bbox": [0.7, 301.4, 61.3, 336.7], "score": 0.458}]}
+{"frame": 155, "timestamp_ms": 6200.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [701.2, 304.4, 740.0, 328.7], "score": 0.471}]}
+{"frame": 156, "timestamp_ms": 6240.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [702.4, 305.3, 740.2, 330.5], "score": 0.507}]}
+{"frame": 157, "timestamp_ms": 6280.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [704.5, 305.8, 740.8, 331.8], "score": 0.438}]}
+{"frame": 158, "timestamp_ms": 6320.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [705.8, 306.3, 742.2, 332.5], "score": 0.561}]}
+{"frame": 159, "timestamp_ms": 6360.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [705.9, 306.6, 743.2, 332.8], "score": 0.595}]}
+{"frame": 160, "timestamp_ms": 6400.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [705.9, 306.4, 744.2, 333.1], "score": 0.555}]}
+{"frame": 161, "timestamp_ms": 6440.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [705.3, 305.6, 744.5, 333.4], "score": 0.49}]}
+{"frame": 162, "timestamp_ms": 6480.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [704.5, 304.8, 745.1, 332.6], "score": 0.474}]}
+{"frame": 163, "timestamp_ms": 6520.0, "tracks": []}
+{"frame": 164, "timestamp_ms": 6560.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [705.8, 303.5, 746.8, 330.7], "score": 0.526}]}
+{"frame": 165, "timestamp_ms": 6600.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [706.0, 302.5, 747.9, 329.6], "score": 0.566}, {"track_id": 93, "class_id": 2, "bbox": [520.7, 307.6, 548.7, 324.0], "score": 0.411}]}
+{"frame": 166, "timestamp_ms": 6640.0, "tracks": [{"track_id": 69, "class_id": 2, "bbox": [706.6, 301.9, 749.2, 329.1], "score": 0.491}, {"track_id": 93, "class_id": 2, "bbox": [520.7, 307.4, 548.7, 324.2], "score": 0.428}]}
+{"frame": 167, "timestamp_ms": 6680.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [520.9, 307.3, 548.7, 324.2], "score": 0.501}, {"track_id": 98, "class_id": 2, "bbox": [710.2, 302.6, 752.4, 331.4], "score": 0.537}]}
+{"frame": 168, "timestamp_ms": 6720.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [520.8, 307.4, 548.6, 324.6], "score": 0.465}, {"track_id": 98, "class_id": 2, "bbox": [709.9, 303.0, 752.7, 331.8], "score": 0.574}]}
+{"frame": 169, "timestamp_ms": 6760.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [520.9, 307.3, 548.6, 324.4], "score": 0.515}, {"track_id": 98, "class_id": 2, "bbox": [710.4, 302.8, 754.1, 331.7], "score": 0.514}]}
+{"frame": 170, "timestamp_ms": 6800.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.1, 307.2, 548.5, 323.6], "score": 0.562}, {"track_id": 98, "class_id": 2, "bbox": [709.5, 303.0, 754.1, 331.4], "score": 0.515}]}
+{"frame": 171, "timestamp_ms": 6840.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.0, 307.1, 548.7, 323.3], "score": 0.557}, {"track_id": 98, "class_id": 2, "bbox": [710.7, 302.9, 753.7, 331.2], "score": 0.609}]}
+{"frame": 172, "timestamp_ms": 6880.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.1, 307.0, 548.7, 323.2], "score": 0.586}, {"track_id": 98, "class_id": 2, "bbox": [711.5, 303.2, 753.8, 331.5], "score": 0.615}]}
+{"frame": 173, "timestamp_ms": 6920.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.1, 306.7, 548.1, 322.4], "score": 0.556}, {"track_id": 98, "class_id": 2, "bbox": [712.5, 302.2, 754.5, 330.8], "score": 0.674}]}
+{"frame": 174, "timestamp_ms": 6960.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.2, 306.5, 547.4, 321.9], "score": 0.529}, {"track_id": 98, "class_id": 2, "bbox": [712.9, 301.7, 755.2, 330.3], "score": 0.692}]}
+{"frame": 175, "timestamp_ms": 7000.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.2, 306.4, 547.1, 321.6], "score": 0.512}, {"track_id": 98, "class_id": 2, "bbox": [713.6, 301.7, 756.2, 330.3], "score": 0.654}]}
+{"frame": 176, "timestamp_ms": 7040.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.2, 306.6, 546.9, 321.6], "score": 0.497}, {"track_id": 98, "class_id": 2, "bbox": [714.9, 301.9, 758.4, 330.7], "score": 0.566}]}
+{"frame": 177, "timestamp_ms": 7080.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.0, 306.8, 547.1, 322.2], "score": 0.52}, {"track_id": 98, "class_id": 2, "bbox": [716.1, 302.4, 759.2, 331.6], "score": 0.451}, {"track_id": 99, "class_id": 2, "bbox": [2.9, 312.7, 65.3, 335.6], "score": 0.602}]}
+{"frame": 178, "timestamp_ms": 7120.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [521.0, 307.0, 547.1, 322.7], "score": 0.553}, {"track_id": 98, "class_id": 2, "bbox": [716.4, 303.0, 759.7, 331.9], "score": 0.402}]}
+{"frame": 179, "timestamp_ms": 7160.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [520.7, 307.3, 547.1, 323.8], "score": 0.519}, {"track_id": 98, "class_id": 2, "bbox": [716.4, 303.7, 760.3, 332.2], "score": 0.538}]}
+{"frame": 180, "timestamp_ms": 7200.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [520.5, 307.3, 546.8, 323.6], "score": 0.509}, {"track_id": 98, "class_id": 2, "bbox": [716.5, 303.3, 760.8, 332.4], "score": 0.566}]}
+{"frame": 181, "timestamp_ms": 7240.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [520.4, 307.1, 546.4, 322.8], "score": 0.539}, {"track_id": 98, "class_id": 2, "bbox": [716.5, 302.6, 761.6, 332.4], "score": 0.601}]}
+{"frame": 182, "timestamp_ms": 7280.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [519.8, 307.1, 546.0, 322.3], "score": 0.512}, {"track_id": 98, "class_id": 2, "bbox": [717.0, 302.3, 762.2, 332.9], "score": 0.51}]}
+{"frame": 183, "timestamp_ms": 7320.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [519.1, 307.7, 545.5, 322.3], "score": 0.385}, {"track_id": 98, "class_id": 2, "bbox": [718.6, 302.5, 762.4, 333.7], "score": 0.487}]}
+{"frame": 184, "timestamp_ms": 7360.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [518.6, 308.6, 544.9, 322.8], "score": 0.36}, {"track_id": 98, "class_id": 2, "bbox": [719.5, 302.9, 763.6, 334.4], "score": 0.579}]}
+{"frame": 185, "timestamp_ms": 7400.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [518.3, 309.1, 544.2, 323.3], "score": 0.382}, {"track_id": 98, "class_id": 2, "bbox": [720.0, 303.5, 764.8, 334.6], "score": 0.528}]}
+{"frame": 186, "timestamp_ms": 7440.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [518.0, 309.5, 543.7, 323.8], "score": 0.384}, {"track_id": 98, "class_id": 2, "bbox": [720.2, 303.5, 765.7, 335.0], "score": 0.582}]}
+{"frame": 187, "timestamp_ms": 7480.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [517.8, 309.3, 543.1, 323.9], "score": 0.41}, {"track_id": 98, "class_id": 2, "bbox": [719.9, 303.4, 765.1, 335.0], "score": 0.543}]}
+{"frame": 188, "timestamp_ms": 7520.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [517.6, 309.3, 542.8, 323.9], "score": 0.419}, {"track_id": 98, "class_id": 2, "bbox": [720.0, 303.7, 765.2, 334.8], "score": 0.551}]}
+{"frame": 189, "timestamp_ms": 7560.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [517.1, 309.2, 542.5, 323.8], "score": 0.368}, {"track_id": 98, "class_id": 2, "bbox": [720.2, 303.5, 765.6, 334.6], "score": 0.522}]}
+{"frame": 190, "timestamp_ms": 7600.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [720.4, 303.5, 765.8, 334.9], "score": 0.566}]}
+{"frame": 191, "timestamp_ms": 7640.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [720.4, 303.5, 766.1, 334.9], "score": 0.487}]}
+{"frame": 192, "timestamp_ms": 7680.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [722.0, 303.1, 767.3, 333.7], "score": 0.448}]}
+{"frame": 193, "timestamp_ms": 7720.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [722.6, 302.8, 768.6, 333.0], "score": 0.515}]}
+{"frame": 194, "timestamp_ms": 7760.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [722.7, 301.7, 769.4, 332.9], "score": 0.488}]}
+{"frame": 195, "timestamp_ms": 7800.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [722.6, 301.3, 769.3, 333.4], "score": 0.499}]}
+{"frame": 196, "timestamp_ms": 7840.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [722.6, 300.9, 769.5, 333.9], "score": 0.487}]}
+{"frame": 197, "timestamp_ms": 7880.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [513.5, 308.0, 537.4, 322.4], "score": 0.403}, {"track_id": 98, "class_id": 2, "bbox": [722.9, 301.9, 770.5, 334.8], "score": 0.514}]}
+{"frame": 198, "timestamp_ms": 7920.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [512.9, 307.6, 537.1, 322.1], "score": 0.355}, {"track_id": 98, "class_id": 2, "bbox": [723.2, 302.2, 771.5, 335.0], "score": 0.47}]}
+{"frame": 199, "timestamp_ms": 7960.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [725.3, 302.2, 772.2, 334.5], "score": 0.407}]}
+{"frame": 200, "timestamp_ms": 8000.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [728.1, 302.6, 773.4, 334.5], "score": 0.406}]}
+{"frame": 201, "timestamp_ms": 8040.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [511.7, 306.7, 536.7, 321.9], "score": 0.407}, {"track_id": 98, "class_id": 2, "bbox": [729.9, 302.7, 775.4, 334.4], "score": 0.445}]}
+{"frame": 202, "timestamp_ms": 8080.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [511.1, 306.6, 536.5, 322.0], "score": 0.363}, {"track_id": 98, "class_id": 2, "bbox": [730.1, 303.2, 777.8, 334.8], "score": 0.457}]}
+{"frame": 203, "timestamp_ms": 8120.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [729.6, 303.7, 777.8, 335.0], "score": 0.485}]}
+{"frame": 204, "timestamp_ms": 8160.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [510.3, 307.6, 536.1, 322.7], "score": 0.395}, {"track_id": 98, "class_id": 2, "bbox": [729.3, 304.2, 777.5, 335.9], "score": 0.539}]}
+{"frame": 205, "timestamp_ms": 8200.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [732.4, 304.6, 778.4, 336.1], "score": 0.57}]}
+{"frame": 206, "timestamp_ms": 8240.0, "tracks": [{"track_id": 98, "class_id": 2, "bbox": [734.3, 304.4, 778.8, 335.9], "score": 0.569}]}
+{"frame": 207, "timestamp_ms": 8280.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [509.4, 308.4, 534.7, 322.8], "score": 0.354}, {"track_id": 98, "class_id": 2, "bbox": [736.3, 304.1, 780.5, 335.3], "score": 0.588}]}
+{"frame": 208, "timestamp_ms": 8320.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [509.1, 308.2, 534.3, 322.7], "score": 0.382}, {"track_id": 98, "class_id": 2, "bbox": [735.9, 303.3, 781.1, 334.8], "score": 0.585}]}
+{"frame": 209, "timestamp_ms": 8360.0, "tracks": [{"track_id": 93, "class_id": 2, "bbox": [509.0, 308.1, 534.2, 322.6], "score": 0.355}, {"track_id": 98, "class_id": 2, "bbox": [738.9, 302.9, 783.6, 334.7], "score": 0.505}]}
+{"frame": 210, "timestamp_ms": 8400.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [732.2, 302.1, 785.0, 335.9], "score": 0.554}]}
+{"frame": 211, "timestamp_ms": 8440.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [732.9, 302.5, 785.0, 336.1], "score": 0.582}]}
+{"frame": 212, "timestamp_ms": 8480.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [732.6, 302.7, 784.4, 336.6], "score": 0.622}]}
+{"frame": 213, "timestamp_ms": 8520.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [732.9, 303.1, 785.7, 337.4], "score": 0.62}]}
+{"frame": 214, "timestamp_ms": 8560.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [734.4, 303.0, 786.2, 337.6], "score": 0.505}]}
+{"frame": 215, "timestamp_ms": 8600.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [736.7, 302.5, 787.3, 337.1], "score": 0.49}]}
+{"frame": 216, "timestamp_ms": 8640.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [737.9, 301.8, 787.7, 336.3], "score": 0.514}]}
+{"frame": 217, "timestamp_ms": 8680.0, "tracks": [{"track_id": 101, "class_id": 2, "bbox": [750.5, 301.5, 789.9, 334.8], "score": 0.534}]}
+{"frame": 218, "timestamp_ms": 8720.0, "tracks": [{"track_id": 101, "class_id": 2, "bbox": [751.6, 301.4, 790.5, 334.9], "score": 0.5}, {"track_id": 102, "class_id": 2, "bbox": [40.4, 313.5, 98.4, 334.9], "score": 0.516}]}
+{"frame": 219, "timestamp_ms": 8760.0, "tracks": [{"track_id": 101, "class_id": 2, "bbox": [751.6, 301.0, 792.2, 335.4], "score": 0.364}, {"track_id": 103, "class_id": 2, "bbox": [25.5, 314.5, 86.2, 337.2], "score": 0.524}]}
+{"frame": 220, "timestamp_ms": 8800.0, "tracks": [{"track_id": 101, "class_id": 2, "bbox": [750.1, 301.1, 792.7, 335.1], "score": 0.432}, {"track_id": 104, "class_id": 2, "bbox": [5.4, 313.6, 68.1, 337.7], "score": 0.58}]}
+{"frame": 221, "timestamp_ms": 8840.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [744.9, 301.6, 793.6, 335.5], "score": 0.405}, {"track_id": 105, "class_id": 2, "bbox": [0.0, 313.1, 45.9, 338.2], "score": 0.64}, {"track_id": 106, "class_id": 2, "bbox": [165.6, 313.8, 199.5, 328.9], "score": 0.505}]}
+{"frame": 222, "timestamp_ms": 8880.0, "tracks": [{"track_id": 101, "class_id": 2, "bbox": [756.9, 301.1, 795.3, 335.0], "score": 0.396}, {"track_id": 107, "class_id": 2, "bbox": [157.1, 314.1, 192.4, 330.8], "score": 0.506}]}
+{"frame": 223, "timestamp_ms": 8920.0, "tracks": [{"track_id": 101, "class_id": 2, "bbox": [761.0, 301.0, 797.0, 335.2], "score": 0.428}]}
+{"frame": 224, "timestamp_ms": 8960.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [745.1, 301.0, 798.8, 335.8], "score": 0.436}]}
+{"frame": 225, "timestamp_ms": 9000.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [745.3, 300.4, 800.5, 336.2], "score": 0.408}]}
+{"frame": 226, "timestamp_ms": 9040.0, "tracks": [{"track_id": 108, "class_id": 2, "bbox": [114.7, 312.6, 161.9, 331.8], "score": 0.64}]}
+{"frame": 227, "timestamp_ms": 9080.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [748.1, 299.1, 804.0, 336.0], "score": 0.404}, {"track_id": 109, "class_id": 2, "bbox": [103.5, 311.7, 148.9, 330.9], "score": 0.615}]}
+{"frame": 228, "timestamp_ms": 9120.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [749.8, 298.5, 805.3, 335.6], "score": 0.358}, {"track_id": 110, "class_id": 2, "bbox": [90.3, 310.6, 137.6, 331.4], "score": 0.619}, {"track_id": 111, "class_id": 2, "bbox": [182.0, 309.5, 221.5, 328.2], "score": 0.557}]}
+{"frame": 229, "timestamp_ms": 9160.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [751.4, 297.4, 806.5, 334.9], "score": 0.448}, {"track_id": 112, "class_id": 2, "bbox": [76.2, 310.5, 124.2, 332.4], "score": 0.563}, {"track_id": 113, "class_id": 2, "bbox": [171.0, 308.4, 213.7, 327.8], "score": 0.53}]}
+{"frame": 230, "timestamp_ms": 9200.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [751.9, 297.5, 807.7, 335.2], "score": 0.405}, {"track_id": 114, "class_id": 2, "bbox": [161.5, 306.9, 204.8, 327.9], "score": 0.677}, {"track_id": 115, "class_id": 2, "bbox": [60.1, 310.1, 112.1, 333.3], "score": 0.593}]}
+{"frame": 231, "timestamp_ms": 9240.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [753.0, 298.0, 809.8, 335.7], "score": 0.442}, {"track_id": 116, "class_id": 2, "bbox": [42.1, 310.3, 96.8, 334.0], "score": 0.606}, {"track_id": 117, "class_id": 2, "bbox": [149.7, 307.6, 195.7, 328.1], "score": 0.557}]}
+{"frame": 232, "timestamp_ms": 9280.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [757.6, 299.2, 811.0, 336.6], "score": 0.363}, {"track_id": 118, "class_id": 2, "bbox": [24.0, 310.1, 82.3, 336.0], "score": 0.664}, {"track_id": 119, "class_id": 2, "bbox": [136.6, 308.7, 183.9, 329.4], "score": 0.611}]}
+{"frame": 233, "timestamp_ms": 9320.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [758.2, 300.4, 811.9, 337.6], "score": 0.353}, {"track_id": 120, "class_id": 2, "bbox": [3.5, 310.8, 64.3, 338.9], "score": 0.657}, {"track_id": 121, "class_id": 2, "bbox": [124.1, 310.3, 172.5, 332.8], "score": 0.629}]}
+{"frame": 234, "timestamp_ms": 9360.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [757.2, 300.5, 814.0, 338.5], "score": 0.539}, {"track_id": 105, "class_id": 2, "bbox": [0.0, 310.0, 45.3, 338.4], "score": 0.679}, {"track_id": 122, "class_id": 2, "bbox": [108.1, 309.4, 160.2, 332.8], "score": 0.582}]}
+{"frame": 235, "timestamp_ms": 9400.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [756.9, 299.7, 815.1, 338.1], "score": 0.489}, {"track_id": 123, "class_id": 2, "bbox": [90.6, 308.3, 148.6, 333.0], "score": 0.675}, {"track_id": 124, "class_id": 2, "bbox": [0.0, 309.1, 27.0, 337.2], "score": 0.627}]}
+{"frame": 236, "timestamp_ms": 9440.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [756.6, 298.4, 816.1, 337.1], "score": 0.422}, {"track_id": 125, "class_id": 2, "bbox": [72.9, 308.3, 134.7, 333.3], "score": 0.679}]}
+{"frame": 237, "timestamp_ms": 9480.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [757.5, 298.0, 816.8, 336.7], "score": 0.443}, {"track_id": 126, "class_id": 2, "bbox": [54.6, 308.3, 126.2, 334.4], "score": 0.665}]}
+{"frame": 238, "timestamp_ms": 9520.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [758.3, 297.5, 817.6, 336.4], "score": 0.486}, {"track_id": 127, "class_id": 2, "bbox": [33.6, 307.1, 106.0, 334.3], "score": 0.624}]}
+{"frame": 239, "timestamp_ms": 9560.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [765.4, 297.4, 819.3, 336.9], "score": 0.439}, {"track_id": 128, "class_id": 2, "bbox": [10.0, 307.1, 85.7, 336.2], "score": 0.609}]}
+{"frame": 240, "timestamp_ms": 9600.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [774.7, 297.7, 821.3, 337.4], "score": 0.431}, {"track_id": 120, "class_id": 2, "bbox": [0.1, 308.6, 66.8, 337.8], "score": 0.609}]}
+{"frame": 241, "timestamp_ms": 9640.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [775.4, 298.0, 823.1, 338.1], "score": 0.441}, {"track_id": 105, "class_id": 2, "bbox": [0.0, 308.5, 41.9, 337.3], "score": 0.615}]}
+{"frame": 242, "timestamp_ms": 9680.0, "tracks": [{"track_id": 100, "class_id": 2, "bbox": [779.7, 298.2, 826.1, 338.8], "score": 0.515}]}
+{"frame": 243, "timestamp_ms": 9720.0, "tracks": [{"track_id": 129, "class_id": 2, "bbox": [773.7, 299.2, 825.8, 340.4], "score": 0.515}]}
+{"frame": 244, "timestamp_ms": 9760.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [764.4, 300.9, 827.0, 341.3], "score": 0.717}]}
+{"frame": 245, "timestamp_ms": 9800.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [765.2, 300.7, 828.0, 341.4], "score": 0.677}]}
+{"frame": 246, "timestamp_ms": 9840.0, "tracks": [{"track_id": 131, "class_id": 2, "bbox": [779.8, 301.1, 830.7, 341.5], "score": 0.584}]}
+{"frame": 247, "timestamp_ms": 9880.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [768.2, 300.8, 831.7, 341.5], "score": 0.592}]}
+{"frame": 248, "timestamp_ms": 9920.0, "tracks": [{"track_id": 132, "class_id": 2, "bbox": [787.5, 301.6, 834.5, 341.6], "score": 0.583}]}
+{"frame": 249, "timestamp_ms": 9960.0, "tracks": [{"track_id": 132, "class_id": 2, "bbox": [787.7, 301.1, 834.8, 341.8], "score": 0.55}]}
+{"frame": 250, "timestamp_ms": 10000.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [774.7, 300.7, 837.3, 341.6], "score": 0.579}]}
+{"frame": 251, "timestamp_ms": 10040.0, "tracks": [{"track_id": 132, "class_id": 2, "bbox": [792.1, 301.4, 837.7, 342.2], "score": 0.624}]}
+{"frame": 252, "timestamp_ms": 10080.0, "tracks": [{"track_id": 132, "class_id": 2, "bbox": [793.8, 301.6, 839.0, 342.5], "score": 0.617}]}
+{"frame": 253, "timestamp_ms": 10120.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [782.3, 301.6, 840.5, 343.4], "score": 0.649}]}
+{"frame": 254, "timestamp_ms": 10160.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [779.4, 301.2, 842.2, 343.3], "score": 0.748}]}
+{"frame": 255, "timestamp_ms": 10200.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [777.9, 300.6, 843.0, 342.6], "score": 0.725}]}
+{"frame": 256, "timestamp_ms": 10240.0, "tracks": [{"track_id": 109, "class_id": 2, "bbox": [105.5, 313.0, 143.4, 331.7], "score": 0.433}, {"track_id": 130, "class_id": 2, "bbox": [778.4, 300.4, 845.0, 342.2], "score": 0.692}]}
+{"frame": 257, "timestamp_ms": 10280.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [778.6, 299.3, 846.4, 342.2], "score": 0.787}, {"track_id": 133, "class_id": 2, "bbox": [88.2, 312.0, 129.0, 332.4], "score": 0.512}]}
+{"frame": 258, "timestamp_ms": 10320.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [779.6, 298.7, 848.3, 342.2], "score": 0.754}, {"track_id": 134, "class_id": 2, "bbox": [69.4, 311.3, 114.3, 333.9], "score": 0.553}]}
+{"frame": 259, "timestamp_ms": 10360.0, "tracks": [{"track_id": 116, "class_id": 2, "bbox": [53.0, 311.4, 96.1, 334.6], "score": 0.453}, {"track_id": 130, "class_id": 2, "bbox": [780.3, 298.1, 851.4, 342.0], "score": 0.72}]}
+{"frame": 260, "timestamp_ms": 10400.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [781.4, 298.1, 852.6, 342.0], "score": 0.626}, {"track_id": 135, "class_id": 2, "bbox": [32.5, 311.1, 76.9, 335.4], "score": 0.507}]}
+{"frame": 261, "timestamp_ms": 10440.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [782.5, 298.5, 853.8, 342.1], "score": 0.674}]}
+{"frame": 262, "timestamp_ms": 10480.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [783.5, 298.7, 855.5, 342.4], "score": 0.634}]}
+{"frame": 263, "timestamp_ms": 10520.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [785.7, 298.8, 857.3, 342.5], "score": 0.616}]}
+{"frame": 264, "timestamp_ms": 10560.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [787.7, 298.4, 859.8, 342.1], "score": 0.532}]}
+{"frame": 265, "timestamp_ms": 10600.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [789.0, 298.0, 861.6, 343.0], "score": 0.64}]}
+{"frame": 266, "timestamp_ms": 10640.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [790.7, 298.2, 864.6, 344.0], "score": 0.663}]}
+{"frame": 267, "timestamp_ms": 10680.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [791.4, 298.4, 867.1, 345.0], "score": 0.754}]}
+{"frame": 268, "timestamp_ms": 10720.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [791.6, 298.6, 869.3, 345.8], "score": 0.84}]}
+{"frame": 269, "timestamp_ms": 10760.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [793.0, 298.7, 871.3, 346.0], "score": 0.835}]}
+{"frame": 270, "timestamp_ms": 10800.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [795.2, 298.8, 872.8, 346.4], "score": 0.802}]}
+{"frame": 271, "timestamp_ms": 10840.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [797.6, 298.7, 874.9, 346.5], "score": 0.846}]}
+{"frame": 272, "timestamp_ms": 10880.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [800.0, 298.8, 877.0, 346.6], "score": 0.804}]}
+{"frame": 273, "timestamp_ms": 10920.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [801.7, 298.3, 879.4, 346.7], "score": 0.813}]}
+{"frame": 274, "timestamp_ms": 10960.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [803.1, 298.8, 881.6, 346.9], "score": 0.745}]}
+{"frame": 275, "timestamp_ms": 11000.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [804.3, 298.9, 883.5, 346.7], "score": 0.764}]}
+{"frame": 276, "timestamp_ms": 11040.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [805.1, 298.5, 885.1, 346.6], "score": 0.754}]}
+{"frame": 277, "timestamp_ms": 11080.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [805.8, 298.7, 887.1, 347.0], "score": 0.724}]}
+{"frame": 278, "timestamp_ms": 11120.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [807.0, 299.5, 888.8, 347.9], "score": 0.728}, {"track_id": 136, "class_id": 2, "bbox": [183.7, 305.5, 224.2, 323.4], "score": 0.622}]}
+{"frame": 279, "timestamp_ms": 11160.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [808.3, 300.5, 890.3, 349.4], "score": 0.768}, {"track_id": 136, "class_id": 2, "bbox": [176.0, 305.3, 217.6, 324.6], "score": 0.489}]}
+{"frame": 280, "timestamp_ms": 11200.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [809.7, 300.6, 891.3, 351.0], "score": 0.734}]}
+{"frame": 281, "timestamp_ms": 11240.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [810.8, 301.7, 893.1, 352.3], "score": 0.67}]}
+{"frame": 282, "timestamp_ms": 11280.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [812.1, 302.2, 895.7, 353.4], "score": 0.705}]}
+{"frame": 283, "timestamp_ms": 11320.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [813.0, 302.0, 897.0, 353.6], "score": 0.699}]}
+{"frame": 284, "timestamp_ms": 11360.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [814.0, 301.3, 899.3, 353.3], "score": 0.696}]}
+{"frame": 285, "timestamp_ms": 11400.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [814.3, 300.7, 901.8, 353.1], "score": 0.737}]}
+{"frame": 286, "timestamp_ms": 11440.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [815.6, 300.3, 904.1, 353.1], "score": 0.751}]}
+{"frame": 287, "timestamp_ms": 11480.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [817.0, 301.1, 906.6, 353.7], "score": 0.709}]}
+{"frame": 288, "timestamp_ms": 11520.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [818.7, 301.9, 908.5, 355.5], "score": 0.665}, {"track_id": 137, "class_id": 2, "bbox": [17.9, 305.3, 101.9, 334.0], "score": 0.502}]}
+{"frame": 289, "timestamp_ms": 11560.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [819.8, 302.7, 910.4, 356.6], "score": 0.665}, {"track_id": 137, "class_id": 2, "bbox": [6.9, 304.6, 83.2, 334.3], "score": 0.388}]}
+{"frame": 290, "timestamp_ms": 11600.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [821.2, 302.6, 912.3, 356.6], "score": 0.774}]}
+{"frame": 291, "timestamp_ms": 11640.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [823.6, 301.5, 915.0, 355.5], "score": 0.783}]}
+{"frame": 292, "timestamp_ms": 11680.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [825.3, 299.8, 917.1, 354.1], "score": 0.787}]}
+{"frame": 293, "timestamp_ms": 11720.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [826.6, 298.1, 919.3, 353.0], "score": 0.809}]}
+{"frame": 294, "timestamp_ms": 11760.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [829.0, 297.1, 922.6, 351.9], "score": 0.791}]}
+{"frame": 295, "timestamp_ms": 11800.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [830.9, 296.0, 924.9, 350.2], "score": 0.767}]}
+{"frame": 296, "timestamp_ms": 11840.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [832.7, 295.3, 927.0, 349.0], "score": 0.817}]}
+{"frame": 297, "timestamp_ms": 11880.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [834.8, 294.7, 929.2, 348.4], "score": 0.742}]}
+{"frame": 298, "timestamp_ms": 11920.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [837.8, 294.8, 931.8, 348.8], "score": 0.723}]}
+{"frame": 299, "timestamp_ms": 11960.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [839.0, 294.6, 934.8, 350.0], "score": 0.788}]}
+{"frame": 300, "timestamp_ms": 12000.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [840.9, 295.0, 937.9, 350.4], "score": 0.694}]}
+{"frame": 301, "timestamp_ms": 12040.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [842.1, 294.2, 941.1, 350.5], "score": 0.734}]}
+{"frame": 302, "timestamp_ms": 12080.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [843.4, 292.8, 943.5, 350.2], "score": 0.708}]}
+{"frame": 303, "timestamp_ms": 12120.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [845.5, 291.6, 946.6, 349.6], "score": 0.675}]}
+{"frame": 304, "timestamp_ms": 12160.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [847.2, 291.0, 949.1, 349.6], "score": 0.821}]}
+{"frame": 305, "timestamp_ms": 12200.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [849.2, 290.8, 951.8, 349.9], "score": 0.752}]}
+{"frame": 306, "timestamp_ms": 12240.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [851.3, 290.4, 954.3, 349.7], "score": 0.8}]}
+{"frame": 307, "timestamp_ms": 12280.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [853.8, 289.8, 956.2, 350.0], "score": 0.766}]}
+{"frame": 308, "timestamp_ms": 12320.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [854.6, 289.7, 958.1, 349.8], "score": 0.629}]}
+{"frame": 309, "timestamp_ms": 12360.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [856.3, 289.7, 960.0, 350.5], "score": 0.601}]}
+{"frame": 310, "timestamp_ms": 12400.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [859.7, 289.6, 960.8, 351.0], "score": 0.602}]}
+{"frame": 311, "timestamp_ms": 12440.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [860.8, 289.7, 960.7, 351.5], "score": 0.599}]}
+{"frame": 312, "timestamp_ms": 12480.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [862.8, 289.3, 960.5, 352.1], "score": 0.706}]}
+{"frame": 313, "timestamp_ms": 12520.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [864.5, 289.4, 960.1, 352.4], "score": 0.725}]}
+{"frame": 314, "timestamp_ms": 12560.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [866.7, 289.7, 960.2, 352.7], "score": 0.688}]}
+{"frame": 315, "timestamp_ms": 12600.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [869.1, 289.9, 959.8, 353.1], "score": 0.774}]}
+{"frame": 316, "timestamp_ms": 12640.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [871.4, 289.5, 959.6, 353.3], "score": 0.735}]}
+{"frame": 317, "timestamp_ms": 12680.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [874.3, 289.1, 959.5, 353.7], "score": 0.749}]}
+{"frame": 318, "timestamp_ms": 12720.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [876.5, 288.9, 959.4, 353.8], "score": 0.756}]}
+{"frame": 319, "timestamp_ms": 12760.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [878.8, 288.8, 959.4, 353.6], "score": 0.693}]}
+{"frame": 320, "timestamp_ms": 12800.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [880.9, 288.1, 959.5, 353.4], "score": 0.606}]}
+{"frame": 321, "timestamp_ms": 12840.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [883.0, 287.5, 959.8, 353.1], "score": 0.579}]}
+{"frame": 322, "timestamp_ms": 12880.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [885.4, 287.2, 959.7, 352.7], "score": 0.703}]}
+{"frame": 323, "timestamp_ms": 12920.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [888.3, 287.0, 959.5, 352.9], "score": 0.691}]}
+{"frame": 324, "timestamp_ms": 12960.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [891.7, 287.5, 959.6, 353.9], "score": 0.685}]}
+{"frame": 325, "timestamp_ms": 13000.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [894.7, 287.8, 959.5, 356.1], "score": 0.645}]}
+{"frame": 326, "timestamp_ms": 13040.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [897.2, 288.7, 959.5, 357.7], "score": 0.672}]}
+{"frame": 327, "timestamp_ms": 13080.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [900.1, 289.8, 959.6, 358.2], "score": 0.679}]}
+{"frame": 328, "timestamp_ms": 13120.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [902.4, 289.4, 959.8, 357.7], "score": 0.675}]}
+{"frame": 329, "timestamp_ms": 13160.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [904.9, 288.5, 960.0, 356.4], "score": 0.669}]}
+{"frame": 330, "timestamp_ms": 13200.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [907.1, 287.7, 959.8, 354.8], "score": 0.717}]}
+{"frame": 331, "timestamp_ms": 13240.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [909.7, 287.1, 959.7, 353.7], "score": 0.681}]}
+{"frame": 332, "timestamp_ms": 13280.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [912.8, 287.2, 959.6, 353.9], "score": 0.646}]}
+{"frame": 333, "timestamp_ms": 13320.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [915.9, 289.1, 959.6, 354.5], "score": 0.678}]}
+{"frame": 334, "timestamp_ms": 13360.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [918.5, 291.7, 959.5, 356.2], "score": 0.577}]}
+{"frame": 335, "timestamp_ms": 13400.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [921.7, 293.3, 959.6, 357.8], "score": 0.53}]}
+{"frame": 336, "timestamp_ms": 13440.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [925.4, 295.0, 959.7, 359.0], "score": 0.505}]}
+{"frame": 337, "timestamp_ms": 13480.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [928.4, 298.2, 959.7, 359.2], "score": 0.526}]}
+{"frame": 338, "timestamp_ms": 13520.0, "tracks": [{"track_id": 130, "class_id": 2, "bbox": [931.9, 303.4, 959.7, 359.0], "score": 0.565}]}
+{"frame": 339, "timestamp_ms": 13560.0, "tracks": []}
+{"frame": 340, "timestamp_ms": 13600.0, "tracks": []}
+{"frame": 341, "timestamp_ms": 13640.0, "tracks": []}
+{"frame": 342, "timestamp_ms": 13680.0, "tracks": []}
+{"frame": 343, "timestamp_ms": 13720.0, "tracks": []}
+{"frame": 344, "timestamp_ms": 13760.0, "tracks": []}
+{"frame": 345, "timestamp_ms": 13800.0, "tracks": []}
+{"frame": 346, "timestamp_ms": 13840.0, "tracks": []}
+{"frame": 347, "timestamp_ms": 13880.0, "tracks": []}
+{"frame": 348, "timestamp_ms": 13920.0, "tracks": [{"track_id": 138, "class_id": 2, "bbox": [26.7, 307.1, 81.7, 336.0], "score": 0.563}]}
+{"frame": 349, "timestamp_ms": 13960.0, "tracks": [{"track_id": 139, "class_id": 2, "bbox": [5.5, 306.8, 64.4, 336.9], "score": 0.644}]}
+{"frame": 350, "timestamp_ms": 14000.0, "tracks": [{"track_id": 140, "class_id": 2, "bbox": [0.1, 306.6, 45.7, 336.8], "score": 0.664}]}
+{"frame": 351, "timestamp_ms": 14040.0, "tracks": []}
+{"frame": 352, "timestamp_ms": 14080.0, "tracks": []}
+{"frame": 353, "timestamp_ms": 14120.0, "tracks": []}
+{"frame": 354, "timestamp_ms": 14160.0, "tracks": []}
+{"frame": 355, "timestamp_ms": 14200.0, "tracks": []}
+{"frame": 356, "timestamp_ms": 14240.0, "tracks": []}
+{"frame": 357, "timestamp_ms": 14280.0, "tracks": []}
+{"frame": 358, "timestamp_ms": 14320.0, "tracks": []}
+{"frame": 359, "timestamp_ms": 14360.0, "tracks": []}
+{"frame": 360, "timestamp_ms": 14400.0, "tracks": []}
+{"frame": 361, "timestamp_ms": 14440.0, "tracks": []}
+{"frame": 362, "timestamp_ms": 14480.0, "tracks": []}
+{"frame": 363, "timestamp_ms": 14520.0, "tracks": []}
+{"frame": 364, "timestamp_ms": 14560.0, "tracks": []}
+{"frame": 365, "timestamp_ms": 14600.0, "tracks": []}
+{"frame": 366, "timestamp_ms": 14640.0, "tracks": []}
+{"frame": 367, "timestamp_ms": 14680.0, "tracks": []}
+{"frame": 368, "timestamp_ms": 14720.0, "tracks": []}
+{"frame": 369, "timestamp_ms": 14760.0, "tracks": []}
+{"frame": 370, "timestamp_ms": 14800.0, "tracks": []}
+{"frame": 371, "timestamp_ms": 14840.0, "tracks": []}
+{"frame": 372, "timestamp_ms": 14880.0, "tracks": []}
+{"frame": 373, "timestamp_ms": 14920.0, "tracks": []}
+{"frame": 374, "timestamp_ms": 14960.0, "tracks": []}
+{"frame": 375, "timestamp_ms": 15000.0, "tracks": []}
+{"frame": 376, "timestamp_ms": 15040.0, "tracks": []}
+{"frame": 377, "timestamp_ms": 15080.0, "tracks": []}
+{"frame": 378, "timestamp_ms": 15120.0, "tracks": []}
+{"frame": 379, "timestamp_ms": 15160.0, "tracks": []}
+{"frame": 380, "timestamp_ms": 15200.0, "tracks": []}
+{"frame": 381, "timestamp_ms": 15240.0, "tracks": []}
+{"frame": 382, "timestamp_ms": 15280.0, "tracks": [{"track_id": 141, "class_id": 2, "bbox": [46.0, 305.9, 113.4, 335.0], "score": 0.641}]}
+{"frame": 383, "timestamp_ms": 15320.0, "tracks": [{"track_id": 142, "class_id": 2, "bbox": [22.9, 305.9, 95.6, 336.0], "score": 0.677}]}
+{"frame": 384, "timestamp_ms": 15360.0, "tracks": [{"track_id": 143, "class_id": 2, "bbox": [1.7, 305.0, 76.3, 336.1], "score": 0.767}]}
+{"frame": 385, "timestamp_ms": 15400.0, "tracks": [{"track_id": 144, "class_id": 2, "bbox": [0.1, 305.8, 54.5, 336.2], "score": 0.643}]}
+{"frame": 386, "timestamp_ms": 15440.0, "tracks": [{"track_id": 145, "class_id": 2, "bbox": [0.0, 302.8, 30.6, 336.0], "score": 0.552}]}
+{"frame": 387, "timestamp_ms": 15480.0, "tracks": []}
+{"frame": 388, "timestamp_ms": 15520.0, "tracks": []}
+{"frame": 389, "timestamp_ms": 15560.0, "tracks": []}
+{"frame": 390, "timestamp_ms": 15600.0, "tracks": []}
+{"frame": 391, "timestamp_ms": 15640.0, "tracks": []}
+{"frame": 392, "timestamp_ms": 15680.0, "tracks": []}
+{"frame": 393, "timestamp_ms": 15720.0, "tracks": []}
+{"frame": 394, "timestamp_ms": 15760.0, "tracks": []}
+{"frame": 395, "timestamp_ms": 15800.0, "tracks": []}
+{"frame": 396, "timestamp_ms": 15840.0, "tracks": []}
+{"frame": 397, "timestamp_ms": 15880.0, "tracks": []}
+{"frame": 398, "timestamp_ms": 15920.0, "tracks": []}
+{"frame": 399, "timestamp_ms": 15960.0, "tracks": []}
+{"frame": 400, "timestamp_ms": 16000.0, "tracks": []}
+{"frame": 401, "timestamp_ms": 16040.0, "tracks": []}
+{"frame": 402, "timestamp_ms": 16080.0, "tracks": []}
+{"frame": 403, "timestamp_ms": 16120.0, "tracks": []}
+{"frame": 404, "timestamp_ms": 16160.0, "tracks": []}
+{"frame": 405, "timestamp_ms": 16200.0, "tracks": []}
+{"frame": 406, "timestamp_ms": 16240.0, "tracks": []}
+{"frame": 407, "timestamp_ms": 16280.0, "tracks": []}
+{"frame": 408, "timestamp_ms": 16320.0, "tracks": []}
+{"frame": 409, "timestamp_ms": 16360.0, "tracks": []}
+{"frame": 410, "timestamp_ms": 16400.0, "tracks": []}
+{"frame": 411, "timestamp_ms": 16440.0, "tracks": []}
+{"frame": 412, "timestamp_ms": 16480.0, "tracks": []}
+{"frame": 413, "timestamp_ms": 16520.0, "tracks": []}
+{"frame": 414, "timestamp_ms": 16560.0, "tracks": []}
+{"frame": 415, "timestamp_ms": 16600.0, "tracks": []}
+{"frame": 416, "timestamp_ms": 16640.0, "tracks": []}
+{"frame": 417, "timestamp_ms": 16680.0, "tracks": []}
+{"frame": 418, "timestamp_ms": 16720.0, "tracks": []}
+{"frame": 419, "timestamp_ms": 16760.0, "tracks": []}
+{"frame": 420, "timestamp_ms": 16800.0, "tracks": []}
+{"frame": 421, "timestamp_ms": 16840.0, "tracks": []}
+{"frame": 422, "timestamp_ms": 16880.0, "tracks": []}
+{"frame": 423, "timestamp_ms": 16920.0, "tracks": []}
+{"frame": 424, "timestamp_ms": 16960.0, "tracks": []}
+{"frame": 425, "timestamp_ms": 17000.0, "tracks": []}
+{"frame": 426, "timestamp_ms": 17040.0, "tracks": []}
+{"frame": 427, "timestamp_ms": 17080.0, "tracks": []}
+{"frame": 428, "timestamp_ms": 17120.0, "tracks": []}
+{"frame": 429, "timestamp_ms": 17160.0, "tracks": []}
+{"frame": 430, "timestamp_ms": 17200.0, "tracks": []}
+{"frame": 431, "timestamp_ms": 17240.0, "tracks": []}
+{"frame": 432, "timestamp_ms": 17280.0, "tracks": []}
+{"frame": 433, "timestamp_ms": 17320.0, "tracks": []}
+{"frame": 434, "timestamp_ms": 17360.0, "tracks": []}
+{"frame": 435, "timestamp_ms": 17400.0, "tracks": []}
+{"frame": 436, "timestamp_ms": 17440.0, "tracks": []}
+{"frame": 437, "timestamp_ms": 17480.0, "tracks": []}
+{"frame": 438, "timestamp_ms": 17520.0, "tracks": []}
+{"frame": 439, "timestamp_ms": 17560.0, "tracks": []}
+{"frame": 440, "timestamp_ms": 17600.0, "tracks": []}
+{"frame": 441, "timestamp_ms": 17640.0, "tracks": []}
+{"frame": 442, "timestamp_ms": 17680.0, "tracks": []}
+{"frame": 443, "timestamp_ms": 17720.0, "tracks": [{"track_id": 146, "class_id": 2, "bbox": [84.7, 306.9, 132.9, 328.3], "score": 0.553}]}
+{"frame": 444, "timestamp_ms": 17760.0, "tracks": [{"track_id": 147, "class_id": 2, "bbox": [67.3, 306.9, 118.6, 329.3], "score": 0.591}]}
+{"frame": 445, "timestamp_ms": 17800.0, "tracks": [{"track_id": 148, "class_id": 2, "bbox": [51.9, 307.7, 102.9, 330.1], "score": 0.541}]}
+{"frame": 446, "timestamp_ms": 17840.0, "tracks": [{"track_id": 149, "class_id": 2, "bbox": [31.8, 307.2, 87.4, 331.6], "score": 0.681}]}
+{"frame": 447, "timestamp_ms": 17880.0, "tracks": [{"track_id": 150, "class_id": 2, "bbox": [12.0, 306.5, 72.4, 333.1], "score": 0.696}]}
+{"frame": 448, "timestamp_ms": 17920.0, "tracks": [{"track_id": 151, "class_id": 2, "bbox": [0.7, 305.7, 53.5, 334.1], "score": 0.652}]}
+{"frame": 449, "timestamp_ms": 17960.0, "tracks": [{"track_id": 152, "class_id": 2, "bbox": [0.1, 306.8, 35.8, 333.1], "score": 0.585}]}
+{"frame": 450, "timestamp_ms": 18000.0, "tracks": []}
+{"frame": 451, "timestamp_ms": 18040.0, "tracks": []}
+{"frame": 452, "timestamp_ms": 18080.0, "tracks": []}
+{"frame": 453, "timestamp_ms": 18120.0, "tracks": [{"track_id": 146, "class_id": 2, "bbox": [74.6, 304.9, 131.8, 327.5], "score": 0.411}]}
+{"frame": 454, "timestamp_ms": 18160.0, "tracks": [{"track_id": 148, "class_id": 2, "bbox": [54.2, 304.5, 113.4, 329.2], "score": 0.405}]}
+{"frame": 455, "timestamp_ms": 18200.0, "tracks": [{"track_id": 149, "class_id": 2, "bbox": [31.7, 304.8, 100.2, 329.8], "score": 0.43}]}
+{"frame": 456, "timestamp_ms": 18240.0, "tracks": [{"track_id": 153, "class_id": 2, "bbox": [6.0, 304.3, 77.9, 332.0], "score": 0.546}]}
+{"frame": 457, "timestamp_ms": 18280.0, "tracks": []}
+{"frame": 458, "timestamp_ms": 18320.0, "tracks": []}
+{"frame": 459, "timestamp_ms": 18360.0, "tracks": []}
+{"frame": 460, "timestamp_ms": 18400.0, "tracks": []}
+{"frame": 461, "timestamp_ms": 18440.0, "tracks": []}
+{"frame": 462, "timestamp_ms": 18480.0, "tracks": []}
+{"frame": 463, "timestamp_ms": 18520.0, "tracks": []}
+{"frame": 464, "timestamp_ms": 18560.0, "tracks": []}
+{"frame": 465, "timestamp_ms": 18600.0, "tracks": []}
+{"frame": 466, "timestamp_ms": 18640.0, "tracks": []}
+{"frame": 467, "timestamp_ms": 18680.0, "tracks": []}
+{"frame": 468, "timestamp_ms": 18720.0, "tracks": []}
+{"frame": 469, "timestamp_ms": 18760.0, "tracks": []}
+{"frame": 470, "timestamp_ms": 18800.0, "tracks": []}
+{"frame": 471, "timestamp_ms": 18840.0, "tracks": []}
+{"frame": 472, "timestamp_ms": 18880.0, "tracks": []}
+{"frame": 473, "timestamp_ms": 18920.0, "tracks": []}
+{"frame": 474, "timestamp_ms": 18960.0, "tracks": []}
+{"frame": 475, "timestamp_ms": 19000.0, "tracks": []}
+{"frame": 476, "timestamp_ms": 19040.0, "tracks": []}
+{"frame": 477, "timestamp_ms": 19080.0, "tracks": []}
+{"frame": 478, "timestamp_ms": 19120.0, "tracks": []}
+{"frame": 479, "timestamp_ms": 19160.0, "tracks": []}
+{"frame": 480, "timestamp_ms": 19200.0, "tracks": []}
+{"frame": 481, "timestamp_ms": 19240.0, "tracks": []}
+{"frame": 482, "timestamp_ms": 19280.0, "tracks": []}
+{"frame": 483, "timestamp_ms": 19320.0, "tracks": []}
+{"frame": 484, "timestamp_ms": 19360.0, "tracks": []}
+{"frame": 485, "timestamp_ms": 19400.0, "tracks": []}
+{"frame": 486, "timestamp_ms": 19440.0, "tracks": []}
+{"frame": 487, "timestamp_ms": 19480.0, "tracks": []}
+{"frame": 488, "timestamp_ms": 19520.0, "tracks": []}
+{"frame": 489, "timestamp_ms": 19560.0, "tracks": []}
+{"frame": 490, "timestamp_ms": 19600.0, "tracks": []}
+{"frame": 491, "timestamp_ms": 19640.0, "tracks": []}
+{"frame": 492, "timestamp_ms": 19680.0, "tracks": []}
+{"frame": 493, "timestamp_ms": 19720.0, "tracks": []}
+{"frame": 494, "timestamp_ms": 19760.0, "tracks": []}
+{"frame": 495, "timestamp_ms": 19800.0, "tracks": []}
+{"frame": 496, "timestamp_ms": 19840.0, "tracks": []}
+{"frame": 497, "timestamp_ms": 19880.0, "tracks": []}
+{"frame": 498, "timestamp_ms": 19920.0, "tracks": []}
+{"frame": 499, "timestamp_ms": 19960.0, "tracks": []}
+{"frame": 500, "timestamp_ms": 20000.0, "tracks": []}
+{"frame": 501, "timestamp_ms": 20040.0, "tracks": []}
+{"frame": 502, "timestamp_ms": 20080.0, "tracks": []}
+{"frame": 503, "timestamp_ms": 20120.0, "tracks": []}
+{"frame": 504, "timestamp_ms": 20160.0, "tracks": []}
+{"frame": 505, "timestamp_ms": 20200.0, "tracks": []}
+{"frame": 506, "timestamp_ms": 20240.0, "tracks": [{"track_id": 154, "class_id": 2, "bbox": [15.9, 314.5, 64.4, 335.9], "score": 0.51}]}
+{"frame": 507, "timestamp_ms": 20280.0, "tracks": []}
+{"frame": 508, "timestamp_ms": 20320.0, "tracks": []}
+{"frame": 509, "timestamp_ms": 20360.0, "tracks": []}
+{"frame": 510, "timestamp_ms": 20400.0, "tracks": []}
+{"frame": 511, "timestamp_ms": 20440.0, "tracks": []}
+{"frame": 512, "timestamp_ms": 20480.0, "tracks": []}
+{"frame": 513, "timestamp_ms": 20520.0, "tracks": []}
+{"frame": 514, "timestamp_ms": 20560.0, "tracks": []}
+{"frame": 515, "timestamp_ms": 20600.0, "tracks": []}
+{"frame": 516, "timestamp_ms": 20640.0, "tracks": []}
+{"frame": 517, "timestamp_ms": 20680.0, "tracks": []}
+{"frame": 518, "timestamp_ms": 20720.0, "tracks": []}
+{"frame": 519, "timestamp_ms": 20760.0, "tracks": []}
+{"frame": 520, "timestamp_ms": 20800.0, "tracks": []}
+{"frame": 521, "timestamp_ms": 20840.0, "tracks": []}
+{"frame": 522, "timestamp_ms": 20880.0, "tracks": []}
+{"frame": 523, "timestamp_ms": 20920.0, "tracks": []}
+{"frame": 524, "timestamp_ms": 20960.0, "tracks": []}
+{"frame": 525, "timestamp_ms": 21000.0, "tracks": []}
+{"frame": 526, "timestamp_ms": 21040.0, "tracks": []}
+{"frame": 527, "timestamp_ms": 21080.0, "tracks": []}
+{"frame": 528, "timestamp_ms": 21120.0, "tracks": []}
+{"frame": 529, "timestamp_ms": 21160.0, "tracks": []}
+{"frame": 530, "timestamp_ms": 21200.0, "tracks": []}
+{"frame": 531, "timestamp_ms": 21240.0, "tracks": []}
+{"frame": 532, "timestamp_ms": 21280.0, "tracks": []}
+{"frame": 533, "timestamp_ms": 21320.0, "tracks": []}
+{"frame": 534, "timestamp_ms": 21360.0, "tracks": []}
+{"frame": 535, "timestamp_ms": 21400.0, "tracks": []}
+{"frame": 536, "timestamp_ms": 21440.0, "tracks": []}
+{"frame": 537, "timestamp_ms": 21480.0, "tracks": []}
+{"frame": 538, "timestamp_ms": 21520.0, "tracks": []}
+{"frame": 539, "timestamp_ms": 21560.0, "tracks": []}
+{"frame": 540, "timestamp_ms": 21600.0, "tracks": []}
+{"frame": 541, "timestamp_ms": 21640.0, "tracks": []}
+{"frame": 542, "timestamp_ms": 21680.0, "tracks": []}
+{"frame": 543, "timestamp_ms": 21720.0, "tracks": [{"track_id": 155, "class_id": 2, "bbox": [99.0, 312.2, 141.9, 329.2], "score": 0.62}]}
+{"frame": 544, "timestamp_ms": 21760.0, "tracks": [{"track_id": 155, "class_id": 2, "bbox": [90.9, 312.0, 133.2, 329.3], "score": 0.485}]}
+{"frame": 545, "timestamp_ms": 21800.0, "tracks": []}
+{"frame": 546, "timestamp_ms": 21840.0, "tracks": []}
+{"frame": 547, "timestamp_ms": 21880.0, "tracks": []}
+{"frame": 548, "timestamp_ms": 21920.0, "tracks": []}
+{"frame": 549, "timestamp_ms": 21960.0, "tracks": [{"track_id": 156, "class_id": 2, "bbox": [11.3, 311.0, 66.2, 334.5], "score": 0.644}]}
+{"frame": 550, "timestamp_ms": 22000.0, "tracks": [{"track_id": 157, "class_id": 2, "bbox": [0.1, 310.8, 52.7, 335.0], "score": 0.627}]}
+{"frame": 551, "timestamp_ms": 22040.0, "tracks": [{"track_id": 158, "class_id": 2, "bbox": [0.1, 309.0, 35.4, 332.5], "score": 0.52}]}
+{"frame": 552, "timestamp_ms": 22080.0, "tracks": []}
+{"frame": 553, "timestamp_ms": 22120.0, "tracks": []}
+{"frame": 554, "timestamp_ms": 22160.0, "tracks": []}
+{"frame": 555, "timestamp_ms": 22200.0, "tracks": []}
+{"frame": 556, "timestamp_ms": 22240.0, "tracks": []}
+{"frame": 557, "timestamp_ms": 22280.0, "tracks": []}
+{"frame": 558, "timestamp_ms": 22320.0, "tracks": []}
+{"frame": 559, "timestamp_ms": 22360.0, "tracks": []}
+{"frame": 560, "timestamp_ms": 22400.0, "tracks": []}
+{"frame": 561, "timestamp_ms": 22440.0, "tracks": []}
+{"frame": 562, "timestamp_ms": 22480.0, "tracks": []}
+{"frame": 563, "timestamp_ms": 22520.0, "tracks": []}
+{"frame": 564, "timestamp_ms": 22560.0, "tracks": []}
+{"frame": 565, "timestamp_ms": 22600.0, "tracks": []}
+{"frame": 566, "timestamp_ms": 22640.0, "tracks": []}
+{"frame": 567, "timestamp_ms": 22680.0, "tracks": []}
+{"frame": 568, "timestamp_ms": 22720.0, "tracks": []}
+{"frame": 569, "timestamp_ms": 22760.0, "tracks": []}
+{"frame": 570, "timestamp_ms": 22800.0, "tracks": []}
+{"frame": 571, "timestamp_ms": 22840.0, "tracks": []}
+{"frame": 572, "timestamp_ms": 22880.0, "tracks": []}
+{"frame": 573, "timestamp_ms": 22920.0, "tracks": []}
+{"frame": 574, "timestamp_ms": 22960.0, "tracks": []}
+{"frame": 575, "timestamp_ms": 23000.0, "tracks": []}
+{"frame": 576, "timestamp_ms": 23040.0, "tracks": []}
+{"frame": 577, "timestamp_ms": 23080.0, "tracks": []}
+{"frame": 578, "timestamp_ms": 23120.0, "tracks": []}
+{"frame": 579, "timestamp_ms": 23160.0, "tracks": []}
+{"frame": 580, "timestamp_ms": 23200.0, "tracks": []}
+{"frame": 581, "timestamp_ms": 23240.0, "tracks": []}
+{"frame": 582, "timestamp_ms": 23280.0, "tracks": []}
+{"frame": 583, "timestamp_ms": 23320.0, "tracks": []}
+{"frame": 584, "timestamp_ms": 23360.0, "tracks": []}
+{"frame": 585, "timestamp_ms": 23400.0, "tracks": []}
+{"frame": 586, "timestamp_ms": 23440.0, "tracks": []}
+{"frame": 587, "timestamp_ms": 23480.0, "tracks": []}
+{"frame": 588, "timestamp_ms": 23520.0, "tracks": []}
+{"frame": 589, "timestamp_ms": 23560.0, "tracks": []}
+{"frame": 590, "timestamp_ms": 23600.0, "tracks": []}
+{"frame": 591, "timestamp_ms": 23640.0, "tracks": []}
+{"frame": 592, "timestamp_ms": 23680.0, "tracks": []}
+{"frame": 593, "timestamp_ms": 23720.0, "tracks": []}
+{"frame": 594, "timestamp_ms": 23760.0, "tracks": []}
+{"frame": 595, "timestamp_ms": 23800.0, "tracks": []}
+{"frame": 596, "timestamp_ms": 23840.0, "tracks": []}
+{"frame": 597, "timestamp_ms": 23880.0, "tracks": []}
+{"frame": 598, "timestamp_ms": 23920.0, "tracks": []}
+{"frame": 599, "timestamp_ms": 23960.0, "tracks": []}
+{"frame": 600, "timestamp_ms": 24000.0, "tracks": []}
+{"frame": 601, "timestamp_ms": 24040.0, "tracks": []}
+{"frame": 602, "timestamp_ms": 24080.0, "tracks": []}
+{"frame": 603, "timestamp_ms": 24120.0, "tracks": []}
+{"frame": 604, "timestamp_ms": 24160.0, "tracks": []}
+{"frame": 605, "timestamp_ms": 24200.0, "tracks": []}
+{"frame": 606, "timestamp_ms": 24240.0, "tracks": []}
+{"frame": 607, "timestamp_ms": 24280.0, "tracks": []}
+{"frame": 608, "timestamp_ms": 24320.0, "tracks": []}
+{"frame": 609, "timestamp_ms": 24360.0, "tracks": []}
+{"frame": 610, "timestamp_ms": 24400.0, "tracks": []}
+{"frame": 611, "timestamp_ms": 24440.0, "tracks": []}
+{"frame": 612, "timestamp_ms": 24480.0, "tracks": []}
+{"frame": 613, "timestamp_ms": 24520.0, "tracks": [{"track_id": 159, "class_id": 2, "bbox": [172.4, 306.2, 227.0, 326.5], "score": 0.576}]}
+{"frame": 614, "timestamp_ms": 24560.0, "tracks": [{"track_id": 160, "class_id": 2, "bbox": [160.7, 306.4, 217.6, 327.4], "score": 0.534}]}
+{"frame": 615, "timestamp_ms": 24600.0, "tracks": [{"track_id": 161, "class_id": 2, "bbox": [148.5, 306.1, 205.4, 326.9], "score": 0.556}]}
+{"frame": 616, "timestamp_ms": 24640.0, "tracks": [{"track_id": 161, "class_id": 2, "bbox": [140.2, 306.2, 201.1, 326.9], "score": 0.361}]}
+{"frame": 617, "timestamp_ms": 24680.0, "tracks": []}
+{"frame": 618, "timestamp_ms": 24720.0, "tracks": []}
+{"frame": 619, "timestamp_ms": 24760.0, "tracks": []}
+{"frame": 620, "timestamp_ms": 24800.0, "tracks": []}
+{"frame": 621, "timestamp_ms": 24840.0, "tracks": [{"track_id": 162, "class_id": 2, "bbox": [114.2, 310.3, 151.6, 326.8], "score": 0.514}]}
+{"frame": 622, "timestamp_ms": 24880.0, "tracks": [{"track_id": 163, "class_id": 2, "bbox": [221.8, 303.8, 261.8, 321.1], "score": 0.591}, {"track_id": 164, "class_id": 2, "bbox": [23.0, 302.4, 97.4, 330.0], "score": 0.556}, {"track_id": 165, "class_id": 2, "bbox": [101.9, 308.0, 138.7, 326.2], "score": 0.552}]}
+{"frame": 623, "timestamp_ms": 24920.0, "tracks": [{"track_id": 163, "class_id": 2, "bbox": [214.3, 304.4, 256.1, 321.2], "score": 0.5}, {"track_id": 166, "class_id": 2, "bbox": [4.3, 301.2, 74.7, 329.0], "score": 0.521}]}
+{"frame": 624, "timestamp_ms": 24960.0, "tracks": [{"track_id": 167, "class_id": 2, "bbox": [196.3, 304.0, 241.9, 321.5], "score": 0.56}]}
+{"frame": 625, "timestamp_ms": 25000.0, "tracks": [{"track_id": 168, "class_id": 2, "bbox": [181.1, 302.6, 231.3, 321.3], "score": 0.576}, {"track_id": 169, "class_id": 2, "bbox": [56.6, 306.8, 103.6, 326.8], "score": 0.54}]}
+{"frame": 626, "timestamp_ms": 25040.0, "tracks": [{"track_id": 170, "class_id": 2, "bbox": [165.5, 303.0, 220.3, 322.9], "score": 0.669}, {"track_id": 171, "class_id": 2, "bbox": [40.3, 307.6, 89.8, 328.6], "score": 0.509}]}
+{"frame": 627, "timestamp_ms": 25080.0, "tracks": [{"track_id": 172, "class_id": 2, "bbox": [19.4, 307.5, 74.4, 329.6], "score": 0.681}, {"track_id": 173, "class_id": 2, "bbox": [150.3, 304.3, 204.5, 324.6], "score": 0.585}]}
+{"frame": 628, "timestamp_ms": 25120.0, "tracks": [{"track_id": 173, "class_id": 2, "bbox": [136.0, 305.0, 197.4, 325.9], "score": 0.49}, {"track_id": 174, "class_id": 2, "bbox": [3.8, 309.3, 59.8, 331.0], "score": 0.511}]}
+{"frame": 629, "timestamp_ms": 25160.0, "tracks": [{"track_id": 174, "class_id": 2, "bbox": [1.3, 309.3, 46.6, 332.5], "score": 0.406}, {"track_id": 175, "class_id": 2, "bbox": [105.1, 305.3, 173.8, 329.4], "score": 0.559}]}
+{"frame": 630, "timestamp_ms": 25200.0, "tracks": [{"track_id": 176, "class_id": 2, "bbox": [79.4, 305.2, 154.3, 332.9], "score": 0.58}]}
+{"frame": 631, "timestamp_ms": 25240.0, "tracks": [{"track_id": 177, "class_id": 2, "bbox": [53.5, 305.3, 131.3, 332.9], "score": 0.617}]}
+{"frame": 632, "timestamp_ms": 25280.0, "tracks": [{"track_id": 178, "class_id": 2, "bbox": [19.7, 303.6, 108.3, 333.6], "score": 0.67}]}
+{"frame": 633, "timestamp_ms": 25320.0, "tracks": [{"track_id": 179, "class_id": 2, "bbox": [0.1, 303.0, 79.2, 334.2], "score": 0.617}]}
+{"frame": 634, "timestamp_ms": 25360.0, "tracks": [{"track_id": 166, "class_id": 2, "bbox": [0.2, 300.5, 52.3, 331.9], "score": 0.368}]}
+{"frame": 635, "timestamp_ms": 25400.0, "tracks": []}
+{"frame": 636, "timestamp_ms": 25440.0, "tracks": []}
+{"frame": 637, "timestamp_ms": 25480.0, "tracks": []}
+{"frame": 638, "timestamp_ms": 25520.0, "tracks": []}
+{"frame": 639, "timestamp_ms": 25560.0, "tracks": []}
+{"frame": 640, "timestamp_ms": 25600.0, "tracks": []}
+{"frame": 641, "timestamp_ms": 25640.0, "tracks": []}
+{"frame": 642, "timestamp_ms": 25680.0, "tracks": []}
+{"frame": 643, "timestamp_ms": 25720.0, "tracks": []}
+{"frame": 644, "timestamp_ms": 25760.0, "tracks": [{"track_id": 172, "class_id": 2, "bbox": [11.7, 306.5, 89.2, 329.2], "score": 0.414}]}
+{"frame": 645, "timestamp_ms": 25800.0, "tracks": []}
+{"frame": 646, "timestamp_ms": 25840.0, "tracks": []}
+{"frame": 647, "timestamp_ms": 25880.0, "tracks": []}
+{"frame": 648, "timestamp_ms": 25920.0, "tracks": []}
+{"frame": 649, "timestamp_ms": 25960.0, "tracks": []}
+{"frame": 650, "timestamp_ms": 26000.0, "tracks": []}
+{"frame": 651, "timestamp_ms": 26040.0, "tracks": []}
+{"frame": 652, "timestamp_ms": 26080.0, "tracks": []}
+{"frame": 653, "timestamp_ms": 26120.0, "tracks": []}
+{"frame": 654, "timestamp_ms": 26160.0, "tracks": []}
+{"frame": 655, "timestamp_ms": 26200.0, "tracks": []}
+{"frame": 656, "timestamp_ms": 26240.0, "tracks": []}
+{"frame": 657, "timestamp_ms": 26280.0, "tracks": []}
+{"frame": 658, "timestamp_ms": 26320.0, "tracks": []}
+{"frame": 659, "timestamp_ms": 26360.0, "tracks": []}
+{"frame": 660, "timestamp_ms": 26400.0, "tracks": []}
+{"frame": 661, "timestamp_ms": 26440.0, "tracks": []}
+{"frame": 662, "timestamp_ms": 26480.0, "tracks": []}
+{"frame": 663, "timestamp_ms": 26520.0, "tracks": []}
+{"frame": 664, "timestamp_ms": 26560.0, "tracks": []}
+{"frame": 665, "timestamp_ms": 26600.0, "tracks": []}
+{"frame": 666, "timestamp_ms": 26640.0, "tracks": []}
+{"frame": 667, "timestamp_ms": 26680.0, "tracks": []}
+{"frame": 668, "timestamp_ms": 26720.0, "tracks": []}
+{"frame": 669, "timestamp_ms": 26760.0, "tracks": []}
+{"frame": 670, "timestamp_ms": 26800.0, "tracks": []}
+{"frame": 671, "timestamp_ms": 26840.0, "tracks": []}
+{"frame": 672, "timestamp_ms": 26880.0, "tracks": []}
+{"frame": 673, "timestamp_ms": 26920.0, "tracks": []}
+{"frame": 674, "timestamp_ms": 26960.0, "tracks": []}
+{"frame": 675, "timestamp_ms": 27000.0, "tracks": []}
+{"frame": 676, "timestamp_ms": 27040.0, "tracks": []}
+{"frame": 677, "timestamp_ms": 27080.0, "tracks": []}
+{"frame": 678, "timestamp_ms": 27120.0, "tracks": []}
+{"frame": 679, "timestamp_ms": 27160.0, "tracks": []}
+{"frame": 680, "timestamp_ms": 27200.0, "tracks": []}

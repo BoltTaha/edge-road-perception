@@ -1,0 +1,32 @@
+{
+  "frames_processed": 251,
+  "overall_fps": 9.42,
+  "detector_inference_ms": {
+    "mean": 91.63,
+    "p50": 91.31,
+    "p95": 94.65,
+    "max": 125.84
+  },
+  "lane_detection_ms": {
+    "mean": 7.54,
+    "p50": 7.19,
+    "p95": 9.4,
+    "max": 11.54
+  },
+  "tracking_ms": {
+    "mean": 0.34,
+    "p50": 0.33,
+    "p95": 0.45,
+    "max": 0.73
+  },
+  "total_per_frame_ms": {
+    "mean": 106.19,
+    "p50": 105.69,
+    "p95": 109.9,
+    "max": 140.34
+  },
+  "test_hardware": "CPU inference via onnxruntime (CPUExecutionProvider)",
+  "python_version": "3.12.3",
+  "cpu_count": 1,
+  "peak_process_memory_mb": 257.7
+}
